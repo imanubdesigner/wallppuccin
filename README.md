@@ -5,11 +5,14 @@ A curated collection of wallpapers converted to the **Catppuccin Mocha** color p
 ## 🌌 Why Mocha?
 Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contrast yet soft aesthetic. This repository aims to be the go-to place for Mocha lovers.
 
-## 🖼️ Showcase
-| Preview | 
-| :---: | 
-| ![Wallpaper 1](wallpapers/wallhaven-3qzvr6.png)
-| ![Wallpaper 2](wallpapers/wallhaven-e88pqw.png)
+### 🖼️ Wallpapers Gallery (Mocha)
+
+| | | |
+| :---: | :---: | :---: |
+| <a href="wallpapers/anime-girl-blue-hair.jpg"><img src="previews/anime-girl-blue-hair.jpg" width="300"></a> | <a href="wallpapers/fz570-wallpaper.cam.jpg"><img src="previews/fz570-wallpaper.cam.jpg" width="300"></a> | <a href="wallpapers/space-floating.jpg"><img src="previews/space-floating.jpg" width="300"></a> |
+| <a href="wallpapers/wallhalla-75-2560x1440.jpg"><img src="previews/wallhalla-75-2560x1440.jpg" width="300"></a> | <a href="wallpapers/wallhaven-1p5mqv.jpg"><img src="previews/wallhaven-1p5mqv.jpg" width="300"></a> | <a href="wallpapers/wallhaven-1q89e3.jpg"><img src="previews/wallhaven-1q89e3.jpg" width="300"></a> |
+| <a href="wallpapers/wallhaven-1qq9y1.png"><img src="previews/wallhaven-1qq9y1.png" width="300"></a> | <a href="wallpapers/wallhaven-2y3jzx_3840x2160.png"><img src="previews/wallhaven-2y3jzx_3840x2160.png" width="300"></a> | <a href="wallpapers/wallhaven-d616vj.jpg"><img src="previews/wallhaven-d616vj.jpg" width="300"></a> |
+
 
 ## 🛠️ Conversion Details
 All images are processed to match the Catppuccin Mocha Palette hex codes:
