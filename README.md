@@ -6,10 +6,10 @@ A curated collection of wallpapers converted to the **Catppuccin Mocha** color p
 Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contrast yet soft aesthetic. This repository aims to be the go-to place for Mocha lovers.
 
 ## 🖼️ Showcase
-| Preview | Name |
-| :---: | :---: |
-| ![Wallpaper 1](wallpapers/wallhaven-3qzvr6.png) | *Anime Girl with cigarette*
-| ![Wallpaper 2](wallpapers/wallhaven-e88pqw.png) | *Blonde Anime Cuberpunk Girl* 
+| Preview | 
+| :---: | 
+| ![Wallpaper 1](wallpapers/wallhaven-3qzvr6.png)
+| ![Wallpaper 2](wallpapers/wallhaven-e88pqw.png)
 
 ## 🛠️ Conversion Details
 All images are processed to match the Catppuccin Mocha Palette hex codes:
