@@ -1,0 +1,26 @@
+# --- OS Metadata Files ---
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Graphic Design Tools ---
+# Photoshop/GIMP temporary files
+*.tmp
+*.psd.bak
+*.xcf.bak
+
+# --- Linux / System Specific ---
+.directory
+.Trash-*
+
+# --- Logs ---
+*.log
