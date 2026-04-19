@@ -7,231 +7,231 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
-<a href="wallpapers/2xl.jpg"><img src="wallpapers/2xl.jpg" width="400"></a>
+![2xl.jpg](./wallpapers/2xl.jpg)
 
-<a href="wallpapers/4k-astronaut.jpg"><img src="wallpapers/4k-astronaut.jpg" width="400"></a>
+![4k-astronaut.jpg](./wallpapers/4k-astronaut.jpg)
 
-<a href="wallpapers/Anime-Girl1.png"><img src="wallpapers/Anime-Girl1.png" width="400"></a>
+![Anime-Girl1.png](./wallpapers/Anime-Girl1.png)
 
-<a href="wallpapers/Anime-Girl2.png"><img src="wallpapers/Anime-Girl2.png" width="400"></a>
+![Anime-Girl2.png](./wallpapers/Anime-Girl2.png)
 
-<a href="wallpapers/Anime-Girl3.png"><img src="wallpapers/Anime-Girl3.png" width="400"></a>
+![Anime-Girl3.png](./wallpapers/Anime-Girl3.png)
 
-<a href="wallpapers/Anime-Girl4.png"><img src="wallpapers/Anime-Girl4.png" width="400"></a>
+![Anime-Girl4.png](./wallpapers/Anime-Girl4.png)
 
-<a href="wallpapers/anime-girl-blue-hair.jpg"><img src="wallpapers/anime-girl-blue-hair.jpg" width="400"></a>
+![anime-girl-blue-hair.jpg](./wallpapers/anime-girl-blue-hair.jpg)
 
-<a href="wallpapers/Anime-Purple-eyes.png"><img src="wallpapers/Anime-Purple-eyes.png" width="400"></a>
+![Anime-Purple-eyes.png](./wallpapers/Anime-Purple-eyes.png)
 
-<a href="wallpapers/Arcade_decay_red.png"><img src="wallpapers/Arcade_decay_red.png" width="400"></a>
+![Arcade_decay_red.png](./wallpapers/Arcade_decay_red.png)
 
-<a href="wallpapers/arch-catppuccin.png"><img src="wallpapers/arch-catppuccin.png" width="400"></a>
+![arch-catppuccin.png](./wallpapers/arch-catppuccin.png)
 
-<a href="wallpapers/Arch-chan_to.png"><img src="wallpapers/Arch-chan_to.png" width="400"></a>
+![Arch-chan_to.png](./wallpapers/Arch-chan_to.png)
 
-<a href="wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg"><img src="wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg" width="400"></a>
+![beautiful-fantasy-landscape-desktop-wallpaper.jpg](./wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg)
 
-<a href="wallpapers/catppuccin.png"><img src="wallpapers/catppuccin.png" width="400"></a>
+![catppuccin.png](./wallpapers/catppuccin.png)
 
-<a href="wallpapers/catppucin-Arch.jpg"><img src="wallpapers/catppucin-Arch.jpg" width="400"></a>
+![catppucin-Arch.jpg](./wallpapers/catppucin-Arch.jpg)
 
-<a href="wallpapers/cflktkjnv9ig1.jpeg"><img src="wallpapers/cflktkjnv9ig1.jpeg" width="400"></a>
+![cflktkjnv9ig1.jpeg](./wallpapers/cflktkjnv9ig1.jpeg)
 
-<a href="wallpapers/christmas-cybr.png"><img src="wallpapers/christmas-cybr.png" width="400"></a>
+![christmas-cybr.png](./wallpapers/christmas-cybr.png)
 
-<a href="wallpapers/fz570-wallpaper.cam.jpg"><img src="wallpapers/fz570-wallpaper.cam.jpg" width="400"></a>
+![fz570-wallpaper.cam.jpg](./wallpapers/fz570-wallpaper.cam.jpg)
 
-<a href="wallpapers/gd5351no3g6e1.jpeg"><img src="wallpapers/gd5351no3g6e1.jpeg" width="400"></a>
+![gd5351no3g6e1.jpeg](./wallpapers/gd5351no3g6e1.jpeg)
 
-<a href="wallpapers/heart_original.png"><img src="wallpapers/heart_original.png" width="400"></a>
+![heart_original.png](./wallpapers/heart_original.png)
 
-<a href="wallpapers/in335-wallpaper.cam.jpg"><img src="wallpapers/in335-wallpaper.cam.jpg" width="400"></a>
+![in335-wallpaper.cam.jpg](./wallpapers/in335-wallpaper.cam.jpg)
 
-<a href="wallpapers/jupiter.png"><img src="wallpapers/jupiter.png" width="400"></a>
+![jupiter.png](./wallpapers/jupiter.png)
 
-<a href="wallpapers/kitty-catppuccin.png"><img src="wallpapers/kitty-catppuccin.png" width="400"></a>
+![kitty-catppuccin.png](./wallpapers/kitty-catppuccin.png)
 
-<a href="wallpapers/latenr.jpeg"><img src="wallpapers/latenr.jpeg" width="400"></a>
+![latenr.jpeg](./wallpapers/latenr.jpeg)
 
-<a href="wallpapers/Lofi%20-%20Study.png"><img src="wallpapers/Lofi%20-%20Study.png" width="400"></a>
+![Lofi - Study.png](./wallpapers/Lofi%20-%20Study.png)
 
-<a href="wallpapers/Lowpoly_Street.png"><img src="wallpapers/Lowpoly_Street.png" width="400"></a>
+![Lowpoly_Street.png](./wallpapers/Lowpoly_Street.png)
 
-<a href="wallpapers/naa0pr80msvg1.png"><img src="wallpapers/naa0pr80msvg1.png" width="400"></a>
+![naa0pr80msvg1.png](./wallpapers/naa0pr80msvg1.png)
 
-<a href="wallpapers/pttwus9ouzpg1.png"><img src="wallpapers/pttwus9ouzpg1.png" width="400"></a>
+![pttwus9ouzpg1.png](./wallpapers/pttwus9ouzpg1.png)
 
-<a href="wallpapers/q2u24ei1qxlg1.jpeg"><img src="wallpapers/q2u24ei1qxlg1.jpeg" width="400"></a>
+![q2u24ei1qxlg1.jpeg](./wallpapers/q2u24ei1qxlg1.jpeg)
 
-<a href="wallpapers/qkreagwmmukg1.png"><img src="wallpapers/qkreagwmmukg1.png" width="400"></a>
+![qkreagwmmukg1.png](./wallpapers/qkreagwmmukg1.png)
 
-<a href="wallpapers/space-floating.jpg"><img src="wallpapers/space-floating.jpg" width="400"></a>
+![space-floating.jpg](./wallpapers/space-floating.jpg)
 
-<a href="wallpapers/space.png"><img src="wallpapers/space.png" width="400"></a>
+![space.png](./wallpapers/space.png)
 
-<a href="wallpapers/Street-1.png"><img src="wallpapers/Street-1.png" width="400"></a>
+![Street-1.png](./wallpapers/Street-1.png)
 
-<a href="wallpapers/Street-2.png"><img src="wallpapers/Street-2.png" width="400"></a>
+![Street-2.png](./wallpapers/Street-2.png)
 
-<a href="wallpapers/Study-table.png"><img src="wallpapers/Study-table.png" width="400"></a>
+![Study-table.png](./wallpapers/Study-table.png)
 
-<a href="wallpapers/sushi.jpg"><img src="wallpapers/sushi.jpg" width="400"></a>
+![sushi.jpg](./wallpapers/sushi.jpg)
 
-<a href="wallpapers/train.png"><img src="wallpapers/train.png" width="400"></a>
+![train.png](./wallpapers/train.png)
 
-<a href="wallpapers/vixem0i4zbog1.png"><img src="wallpapers/vixem0i4zbog1.png" width="400"></a>
+![vixem0i4zbog1.png](./wallpapers/vixem0i4zbog1.png)
 
-<a href="wallpapers/wallhalla-75-2560x1440.jpg"><img src="wallpapers/wallhalla-75-2560x1440.jpg" width="400"></a>
+![wallhalla-75-2560x1440.jpg](./wallpapers/wallhalla-75-2560x1440.jpg)
 
-<a href="wallpapers/wallhaven-1p5l6g.jpg"><img src="wallpapers/wallhaven-1p5l6g.jpg" width="400"></a>
+![wallhaven-1p5l6g.jpg](./wallpapers/wallhaven-1p5l6g.jpg)
 
-<a href="wallpapers/wallhaven-1p5mqv.jpg"><img src="wallpapers/wallhaven-1p5mqv.jpg" width="400"></a>
+![wallhaven-1p5mqv.jpg](./wallpapers/wallhaven-1p5mqv.jpg)
 
-<a href="wallpapers/wallhaven-1q89e3.jpg"><img src="wallpapers/wallhaven-1q89e3.jpg" width="400"></a>
+![wallhaven-1q89e3.jpg](./wallpapers/wallhaven-1q89e3.jpg)
 
-<a href="wallpapers/wallhaven-1qq9y1.png"><img src="wallpapers/wallhaven-1qq9y1.png" width="400"></a>
+![wallhaven-1qq9y1.png](./wallpapers/wallhaven-1qq9y1.png)
 
-<a href="wallpapers/wallhaven-21ko5m.jpg"><img src="wallpapers/wallhaven-21ko5m.jpg" width="400"></a>
+![wallhaven-21ko5m.jpg](./wallpapers/wallhaven-21ko5m.jpg)
 
-<a href="wallpapers/wallhaven-2y3jzx_3840x2160.png"><img src="wallpapers/wallhaven-2y3jzx_3840x2160.png" width="400"></a>
+![wallhaven-2y3jzx_3840x2160.png](./wallpapers/wallhaven-2y3jzx_3840x2160.png)
 
-<a href="wallpapers/wallhaven-2y625y_3840x2160.png"><img src="wallpapers/wallhaven-2y625y_3840x2160.png" width="400"></a>
+![wallhaven-2y625y_3840x2160.png](./wallpapers/wallhaven-2y625y_3840x2160.png)
 
-<a href="wallpapers/wallhaven-3l72e3_3840x2160.png"><img src="wallpapers/wallhaven-3l72e3_3840x2160.png" width="400"></a>
+![wallhaven-3l72e3_3840x2160.png](./wallpapers/wallhaven-3l72e3_3840x2160.png)
 
-<a href="wallpapers/wallhaven-3q9qky.png"><img src="wallpapers/wallhaven-3q9qky.png" width="400"></a>
+![wallhaven-3q9qky.png](./wallpapers/wallhaven-3q9qky.png)
 
-<a href="wallpapers/wallhaven-3qzvr6.png"><img src="wallpapers/wallhaven-3qzvr6.png" width="400"></a>
+![wallhaven-3qzvr6.png](./wallpapers/wallhaven-3qzvr6.png)
 
-<a href="wallpapers/wallhaven-5yy2o8.png"><img src="wallpapers/wallhaven-5yy2o8.png" width="400"></a>
+![wallhaven-5yy2o8.png](./wallpapers/wallhaven-5yy2o8.png)
 
-<a href="wallpapers/wallhaven-7j6k53.jpg"><img src="wallpapers/wallhaven-7j6k53.jpg" width="400"></a>
+![wallhaven-7j6k53.jpg](./wallpapers/wallhaven-7j6k53.jpg)
 
-<a href="wallpapers/wallhaven-7j6xry.jpg"><img src="wallpapers/wallhaven-7j6xry.jpg" width="400"></a>
+![wallhaven-7j6xry.jpg](./wallpapers/wallhaven-7j6xry.jpg)
 
-<a href="wallpapers/wallhaven-7jg7rv.jpg"><img src="wallpapers/wallhaven-7jg7rv.jpg" width="400"></a>
+![wallhaven-7jg7rv.jpg](./wallpapers/wallhaven-7jg7rv.jpg)
 
-<a href="wallpapers/wallhaven-7pdl1v.png"><img src="wallpapers/wallhaven-7pdl1v.png" width="400"></a>
+![wallhaven-7pdl1v.png](./wallpapers/wallhaven-7pdl1v.png)
 
-<a href="wallpapers/wallhaven-7pdvmv.jpg"><img src="wallpapers/wallhaven-7pdvmv.jpg" width="400"></a>
+![wallhaven-7pdvmv.jpg](./wallpapers/wallhaven-7pdvmv.jpg)
 
-<a href="wallpapers/wallhaven-7pzqje.jpg"><img src="wallpapers/wallhaven-7pzqje.jpg" width="400"></a>
+![wallhaven-7pzqje.jpg](./wallpapers/wallhaven-7pzqje.jpg)
 
-<a href="wallpapers/wallhaven-8gegkj.png"><img src="wallpapers/wallhaven-8gegkj.png" width="400"></a>
+![wallhaven-8gegkj.png](./wallpapers/wallhaven-8gegkj.png)
 
-<a href="wallpapers/wallhaven-8ggqqj.jpg"><img src="wallpapers/wallhaven-8ggqqj.jpg" width="400"></a>
+![wallhaven-8ggqqj.jpg](./wallpapers/wallhaven-8ggqqj.jpg)
 
-<a href="wallpapers/wallhaven-8ggwz.jpg"><img src="wallpapers/wallhaven-8ggwz.jpg" width="400"></a>
+![wallhaven-8ggwz.jpg](./wallpapers/wallhaven-8ggwz.jpg)
 
-<a href="wallpapers/wallhaven-8gkq8o.png"><img src="wallpapers/wallhaven-8gkq8o.png" width="400"></a>
+![wallhaven-8gkq8o.png](./wallpapers/wallhaven-8gkq8o.png)
 
-<a href="wallpapers/wallhaven-96mlzd_3840x2160.png"><img src="wallpapers/wallhaven-96mlzd_3840x2160.png" width="400"></a>
+![wallhaven-96mlzd_3840x2160.png](./wallpapers/wallhaven-96mlzd_3840x2160.png)
 
-<a href="wallpapers/wallhaven-9dkgyx_3840x2160.png"><img src="wallpapers/wallhaven-9dkgyx_3840x2160.png" width="400"></a>
+![wallhaven-9dkgyx_3840x2160.png](./wallpapers/wallhaven-9dkgyx_3840x2160.png)
 
-<a href="wallpapers/wallhaven-9dkywx_3840x2160.png"><img src="wallpapers/wallhaven-9dkywx_3840x2160.png" width="400"></a>
+![wallhaven-9dkywx_3840x2160.png](./wallpapers/wallhaven-9dkywx_3840x2160.png)
 
-<a href="wallpapers/wallhaven-9o8wv1.jpg"><img src="wallpapers/wallhaven-9o8wv1.jpg" width="400"></a>
+![wallhaven-9o8wv1.jpg](./wallpapers/wallhaven-9o8wv1.jpg)
 
-<a href="wallpapers/wallhaven-9oojp8.png"><img src="wallpapers/wallhaven-9oojp8.png" width="400"></a>
+![wallhaven-9oojp8.png](./wallpapers/wallhaven-9oojp8.png)
 
-<a href="wallpapers/wallhaven-d616vj.jpg"><img src="wallpapers/wallhaven-d616vj.jpg" width="400"></a>
+![wallhaven-d616vj.jpg](./wallpapers/wallhaven-d616vj.jpg)
 
-<a href="wallpapers/wallhaven-d6l58m.jpg"><img src="wallpapers/wallhaven-d6l58m.jpg" width="400"></a>
+![wallhaven-d6l58m.jpg](./wallpapers/wallhaven-d6l58m.jpg)
 
-<a href="wallpapers/wallhaven-d883yg.png"><img src="wallpapers/wallhaven-d883yg.png" width="400"></a>
+![wallhaven-d883yg.png](./wallpapers/wallhaven-d883yg.png)
 
-<a href="wallpapers/wallhaven-e88pqw.png"><img src="wallpapers/wallhaven-e88pqw.png" width="400"></a>
+![wallhaven-e88pqw.png](./wallpapers/wallhaven-e88pqw.png)
 
-<a href="wallpapers/wallhaven-e8oqkw.jpg"><img src="wallpapers/wallhaven-e8oqkw.jpg" width="400"></a>
+![wallhaven-e8oqkw.jpg](./wallpapers/wallhaven-e8oqkw.jpg)
 
-<a href="wallpapers/wallhaven-gp3oll.png"><img src="wallpapers/wallhaven-gp3oll.png" width="400"></a>
+![wallhaven-gp3oll.png](./wallpapers/wallhaven-gp3oll.png)
 
-<a href="wallpapers/wallhaven-gpm837_3840x2160.png"><img src="wallpapers/wallhaven-gpm837_3840x2160.png" width="400"></a>
+![wallhaven-gpm837_3840x2160.png](./wallpapers/wallhaven-gpm837_3840x2160.png)
 
-<a href="wallpapers/wallhaven-gpo8p3.jpg"><img src="wallpapers/wallhaven-gpo8p3.jpg" width="400"></a>
+![wallhaven-gpo8p3.jpg](./wallpapers/wallhaven-gpo8p3.jpg)
 
-<a href="wallpapers/wallhaven-gpqmkd_3840x2160.png"><img src="wallpapers/wallhaven-gpqmkd_3840x2160.png" width="400"></a>
+![wallhaven-gpqmkd_3840x2160.png](./wallpapers/wallhaven-gpqmkd_3840x2160.png)
 
-<a href="wallpapers/wallhaven-gpy893_5824x3264.png"><img src="wallpapers/wallhaven-gpy893_5824x3264.png" width="400"></a>
+![wallhaven-gpy893_5824x3264.png](./wallpapers/wallhaven-gpy893_5824x3264.png)
 
-<a href="wallpapers/wallhaven-gw5gjd.png"><img src="wallpapers/wallhaven-gw5gjd.png" width="400"></a>
+![wallhaven-gw5gjd.png](./wallpapers/wallhaven-gw5gjd.png)
 
-<a href="wallpapers/wallhaven-gw5wyl.png"><img src="wallpapers/wallhaven-gw5wyl.png" width="400"></a>
+![wallhaven-gw5wyl.png](./wallpapers/wallhaven-gw5wyl.png)
 
-<a href="wallpapers/wallhaven-k875o6.png"><img src="wallpapers/wallhaven-k875o6.png" width="400"></a>
+![wallhaven-k875o6.png](./wallpapers/wallhaven-k875o6.png)
 
-<a href="wallpapers/wallhaven-k88p51.png"><img src="wallpapers/wallhaven-k88p51.png" width="400"></a>
+![wallhaven-k88p51.png](./wallpapers/wallhaven-k88p51.png)
 
-<a href="wallpapers/wallhaven-kxo68q.jpg"><img src="wallpapers/wallhaven-kxo68q.jpg" width="400"></a>
+![wallhaven-kxo68q.jpg](./wallpapers/wallhaven-kxo68q.jpg)
 
-<a href="wallpapers/wallhaven-kxqv8q_3840x2160.png"><img src="wallpapers/wallhaven-kxqv8q_3840x2160.png" width="400"></a>
+![wallhaven-kxqv8q_3840x2160.png](./wallpapers/wallhaven-kxqv8q_3840x2160.png)
 
-<a href="wallpapers/wallhaven-kxyj5d.png"><img src="wallpapers/wallhaven-kxyj5d.png" width="400"></a>
+![wallhaven-kxyj5d.png](./wallpapers/wallhaven-kxyj5d.png)
 
-<a href="wallpapers/wallhaven-l88qwy_3840x2160.png"><img src="wallpapers/wallhaven-l88qwy_3840x2160.png" width="400"></a>
+![wallhaven-l88qwy_3840x2160.png](./wallpapers/wallhaven-l88qwy_3840x2160.png)
 
-<a href="wallpapers/wallhaven-l8exrr.jpg"><img src="wallpapers/wallhaven-l8exrr.jpg" width="400"></a>
+![wallhaven-l8exrr.jpg](./wallpapers/wallhaven-l8exrr.jpg)
 
-<a href="wallpapers/wallhaven-lyz9xp.jpg"><img src="wallpapers/wallhaven-lyz9xp.jpg" width="400"></a>
+![wallhaven-lyz9xp.jpg](./wallpapers/wallhaven-lyz9xp.jpg)
 
-<a href="wallpapers/wallhaven-m3kggk_3840x2160.png"><img src="wallpapers/wallhaven-m3kggk_3840x2160.png" width="400"></a>
+![wallhaven-m3kggk_3840x2160.png](./wallpapers/wallhaven-m3kggk_3840x2160.png)
 
-<a href="wallpapers/wallhaven-o5ozx9.jpg"><img src="wallpapers/wallhaven-o5ozx9.jpg" width="400"></a>
+![wallhaven-o5ozx9.jpg](./wallpapers/wallhaven-o5ozx9.jpg)
 
-<a href="wallpapers/wallhaven-o5pdel_3840x2160.png"><img src="wallpapers/wallhaven-o5pdel_3840x2160.png" width="400"></a>
+![wallhaven-o5pdel_3840x2160.png](./wallpapers/wallhaven-o5pdel_3840x2160.png)
 
-<a href="wallpapers/wallhaven-o5pegl.jpg"><img src="wallpapers/wallhaven-o5pegl.jpg" width="400"></a>
+![wallhaven-o5pegl.jpg](./wallpapers/wallhaven-o5pegl.jpg)
 
-<a href="wallpapers/wallhaven-o5w7x9_3840x2160.png"><img src="wallpapers/wallhaven-o5w7x9_3840x2160.png" width="400"></a>
+![wallhaven-o5w7x9_3840x2160.png](./wallpapers/wallhaven-o5w7x9_3840x2160.png)
 
-<a href="wallpapers/wallhaven-og1775.jpg"><img src="wallpapers/wallhaven-og1775.jpg" width="400"></a>
+![wallhaven-og1775.jpg](./wallpapers/wallhaven-og1775.jpg)
 
-<a href="wallpapers/wallhaven-ogd2e5.png"><img src="wallpapers/wallhaven-ogd2e5.png" width="400"></a>
+![wallhaven-ogd2e5.png](./wallpapers/wallhaven-ogd2e5.png)
 
-<a href="wallpapers/wallhaven-ogdzd5.png"><img src="wallpapers/wallhaven-ogdzd5.png" width="400"></a>
+![wallhaven-ogdzd5.png](./wallpapers/wallhaven-ogdzd5.png)
 
-<a href="wallpapers/wallhaven-p91rgj.jpg"><img src="wallpapers/wallhaven-p91rgj.jpg" width="400"></a>
+![wallhaven-p91rgj.jpg](./wallpapers/wallhaven-p91rgj.jpg)
 
-<a href="wallpapers/wallhaven-p9e8y9_5824x3264.png"><img src="wallpapers/wallhaven-p9e8y9_5824x3264.png" width="400"></a>
+![wallhaven-p9e8y9_5824x3264.png](./wallpapers/wallhaven-p9e8y9_5824x3264.png)
 
-<a href="wallpapers/wallhaven-polymm.png"><img src="wallpapers/wallhaven-polymm.png" width="400"></a>
+![wallhaven-polymm.png](./wallpapers/wallhaven-polymm.png)
 
-<a href="wallpapers/wallhaven-qrgvll.png"><img src="wallpapers/wallhaven-qrgvll.png" width="400"></a>
+![wallhaven-qrgvll.png](./wallpapers/wallhaven-qrgvll.png)
 
-<a href="wallpapers/wallhaven-rqox9m.png"><img src="wallpapers/wallhaven-rqox9m.png" width="400"></a>
+![wallhaven-rqox9m.png](./wallpapers/wallhaven-rqox9m.png)
 
-<a href="wallpapers/wallhaven-rqqdlq.jpg"><img src="wallpapers/wallhaven-rqqdlq.jpg" width="400"></a>
+![wallhaven-rqqdlq.jpg](./wallpapers/wallhaven-rqqdlq.jpg)
 
-<a href="wallpapers/wallhaven-rrme1w.png"><img src="wallpapers/wallhaven-rrme1w.png" width="400"></a>
+![wallhaven-rrme1w.png](./wallpapers/wallhaven-rrme1w.png)
 
-<a href="wallpapers/wallhaven-vpzjo5.jpg"><img src="wallpapers/wallhaven-vpzjo5.jpg" width="400"></a>
+![wallhaven-vpzjo5.jpg](./wallpapers/wallhaven-vpzjo5.jpg)
 
-<a href="wallpapers/wallhaven-vq2erp_3840x2160.png"><img src="wallpapers/wallhaven-vq2erp_3840x2160.png" width="400"></a>
+![wallhaven-vq2erp_3840x2160.png](./wallpapers/wallhaven-vq2erp_3840x2160.png)
 
-<a href="wallpapers/wallhaven-vqp5e8_3840x2160.png"><img src="wallpapers/wallhaven-vqp5e8_3840x2160.png" width="400"></a>
+![wallhaven-vqp5e8_3840x2160.png](./wallpapers/wallhaven-vqp5e8_3840x2160.png)
 
-<a href="wallpapers/wallhaven-w51qe7.png"><img src="wallpapers/wallhaven-w51qe7.png" width="400"></a>
+![wallhaven-w51qe7.png](./wallpapers/wallhaven-w51qe7.png)
 
-<a href="wallpapers/wallhaven-we2826.jpg"><img src="wallpapers/wallhaven-we2826.jpg" width="400"></a>
+![wallhaven-we2826.jpg](./wallpapers/wallhaven-we2826.jpg)
 
-<a href="wallpapers/wallhaven-we98vp_3840x2160.png"><img src="wallpapers/wallhaven-we98vp_3840x2160.png" width="400"></a>
+![wallhaven-we98vp_3840x2160.png](./wallpapers/wallhaven-we98vp_3840x2160.png)
 
-<a href="wallpapers/wallhaven-x6pd8z.jpg"><img src="wallpapers/wallhaven-x6pd8z.jpg" width="400"></a>
+![wallhaven-x6pd8z.jpg](./wallpapers/wallhaven-x6pd8z.jpg)
 
-<a href="wallpapers/wallhaven-xe515l.jpg"><img src="wallpapers/wallhaven-xe515l.jpg" width="400"></a>
+![wallhaven-xe515l.jpg](./wallpapers/wallhaven-xe515l.jpg)
 
-<a href="wallpapers/wallhaven-yqev5d.jpg"><img src="wallpapers/wallhaven-yqev5d.jpg" width="400"></a>
+![wallhaven-yqev5d.jpg](./wallpapers/wallhaven-yqev5d.jpg)
 
-<a href="wallpapers/wallhaven-yqmqk7.png"><img src="wallpapers/wallhaven-yqmqk7.png" width="400"></a>
+![wallhaven-yqmqk7.png](./wallpapers/wallhaven-yqmqk7.png)
 
-<a href="wallpapers/wallhaven-yqqyol.png"><img src="wallpapers/wallhaven-yqqyol.png" width="400"></a>
+![wallhaven-yqqyol.png](./wallpapers/wallhaven-yqqyol.png)
 
-<a href="wallpapers/wallhaven-zpp6zg.jpg"><img src="wallpapers/wallhaven-zpp6zg.jpg" width="400"></a>
+![wallhaven-zpp6zg.jpg](./wallpapers/wallhaven-zpp6zg.jpg)
 
-<a href="wallpapers/wallpaper1.png"><img src="wallpapers/wallpaper1.png" width="400"></a>
+![wallpaper1.png](./wallpapers/wallpaper1.png)
 
-<a href="wallpapers/Wet-Road.jpg"><img src="wallpapers/Wet-Road.jpg" width="400"></a>
+![Wet-Road.jpg](./wallpapers/Wet-Road.jpg)
 
 ## 🛠️ Conversion Details
 All images are processed to match the Catppuccin Mocha Palette hex codes:
