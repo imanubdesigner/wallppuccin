@@ -7,6 +7,11 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
+
+![wallhaven-xek5md.png](./wallpapers/wallhaven-xek5md.png)
+
+![wallhaven-5g9z53.jpg](./wallpapers/wallhaven-5g9z53.jpg)
+
 ![2xl.jpg](./wallpapers/2xl.jpg)
 
 ![4k-astronaut.jpg](./wallpapers/4k-astronaut.jpg)
