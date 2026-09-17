@@ -7,249 +7,213 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
-![alpine-twilight-2560x1440.png](./wallpapers/alpine-twilight-2560x1440.png)
-
-![crimson-feathers-2560x1440.png](./wallpapers/crimson-feathers-2560x1440.png)
-
-![ember-eyes-3840x2160.png](./wallpapers/ember-eyes-3840x2160.png)
-
-![ink-splash-cat-3840x2160.png](./wallpapers/ink-splash-cat-3840x2160.png)
-
-![spire-peak-2560x1440.png](./wallpapers/spire-peak-2560x1440.png)
-
-![ink-splash-feline-3840x2160.png](./wallpapers/ink-splash-feline-3840x2160.png)
-
-![newsprint-peek-5120x2880.png](./wallpapers/newsprint-peek-5120x2880.png)
-
-![wallhaven-xek5md.png](./wallpapers/wallhaven-xek5md.png)
-
-![wallhaven-5g9z53.jpg](./wallpapers/wallhaven-5g9z53.jpg)
-
-![2xl.jpg](./wallpapers/2xl.jpg)
-
-![4k-astronaut.jpg](./wallpapers/4k-astronaut.jpg)
-
-![Anime-Girl1.png](./wallpapers/Anime-Girl1.png)
-
-![Anime-Girl2.png](./wallpapers/Anime-Girl2.png)
-
-![Anime-Girl3.png](./wallpapers/Anime-Girl3.png)
-
-![Anime-Girl4.png](./wallpapers/Anime-Girl4.png)
-
-![anime-girl-blue-hair.jpg](./wallpapers/anime-girl-blue-hair.jpg)
-
-![Anime-Purple-eyes.png](./wallpapers/Anime-Purple-eyes.png)
-
-![Arcade_decay_red.png](./wallpapers/Arcade_decay_red.png)
-
-![arch-catppuccin.png](./wallpapers/arch-catppuccin.png)
-
-![Arch-chan_to.png](./wallpapers/Arch-chan_to.png)
-
-![beautiful-fantasy-landscape-desktop-wallpaper.jpg](./wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg)
-
-![catppuccin.png](./wallpapers/catppuccin.png)
-
-![catppucin-Arch.jpg](./wallpapers/catppucin-Arch.jpg)
-
-![cflktkjnv9ig1.jpeg](./wallpapers/cflktkjnv9ig1.jpeg)
-
-![christmas-cybr.png](./wallpapers/christmas-cybr.png)
-
-![fz570-wallpaper.cam.jpg](./wallpapers/fz570-wallpaper.cam.jpg)
-
-![gd5351no3g6e1.jpeg](./wallpapers/gd5351no3g6e1.jpeg)
-
-![heart_original.png](./wallpapers/heart_original.png)
-
-![in335-wallpaper.cam.jpg](./wallpapers/in335-wallpaper.cam.jpg)
-
-![jupiter.png](./wallpapers/jupiter.png)
-
-![kitty-catppuccin.png](./wallpapers/kitty-catppuccin.png)
-
-![latenr.jpeg](./wallpapers/latenr.jpeg)
-
-![Lofi - Study.png](./wallpapers/Lofi%20-%20Study.png)
-
-![Lowpoly_Street.png](./wallpapers/Lowpoly_Street.png)
-
-![naa0pr80msvg1.png](./wallpapers/naa0pr80msvg1.png)
-
-![pttwus9ouzpg1.png](./wallpapers/pttwus9ouzpg1.png)
-
-![q2u24ei1qxlg1.jpeg](./wallpapers/q2u24ei1qxlg1.jpeg)
-
-![qkreagwmmukg1.png](./wallpapers/qkreagwmmukg1.png)
-
-![space-floating.jpg](./wallpapers/space-floating.jpg)
-
-![space.png](./wallpapers/space.png)
-
-![Street-1.png](./wallpapers/Street-1.png)
-
-![Street-2.png](./wallpapers/Street-2.png)
-
-![Study-table.png](./wallpapers/Study-table.png)
-
-![sushi.jpg](./wallpapers/sushi.jpg)
-
-![train.png](./wallpapers/train.png)
-
-![vixem0i4zbog1.png](./wallpapers/vixem0i4zbog1.png)
-
-![wallhalla-75-2560x1440.jpg](./wallpapers/wallhalla-75-2560x1440.jpg)
-
-![wallhaven-1p5l6g.jpg](./wallpapers/wallhaven-1p5l6g.jpg)
-
-![wallhaven-1p5mqv.jpg](./wallpapers/wallhaven-1p5mqv.jpg)
-
-![wallhaven-1q89e3.jpg](./wallpapers/wallhaven-1q89e3.jpg)
-
-![wallhaven-1qq9y1.png](./wallpapers/wallhaven-1qq9y1.png)
-
-![wallhaven-21ko5m.jpg](./wallpapers/wallhaven-21ko5m.jpg)
-
-![wallhaven-2y3jzx_3840x2160.png](./wallpapers/wallhaven-2y3jzx_3840x2160.png)
-
-![wallhaven-2y625y_3840x2160.png](./wallpapers/wallhaven-2y625y_3840x2160.png)
-
-![wallhaven-3l72e3_3840x2160.png](./wallpapers/wallhaven-3l72e3_3840x2160.png)
-
-![wallhaven-3q9qky.png](./wallpapers/wallhaven-3q9qky.png)
-
-![wallhaven-3qzvr6.png](./wallpapers/wallhaven-3qzvr6.png)
-
-![wallhaven-5yy2o8.png](./wallpapers/wallhaven-5yy2o8.png)
-
-![wallhaven-7j6k53.jpg](./wallpapers/wallhaven-7j6k53.jpg)
-
-![wallhaven-7j6xry.jpg](./wallpapers/wallhaven-7j6xry.jpg)
-
-![wallhaven-7jg7rv.jpg](./wallpapers/wallhaven-7jg7rv.jpg)
-
-![wallhaven-7pdl1v.png](./wallpapers/wallhaven-7pdl1v.png)
-
-![wallhaven-7pdvmv.jpg](./wallpapers/wallhaven-7pdvmv.jpg)
-
-![wallhaven-7pzqje.jpg](./wallpapers/wallhaven-7pzqje.jpg)
-
-![wallhaven-8gegkj.png](./wallpapers/wallhaven-8gegkj.png)
-
-![wallhaven-8ggqqj.jpg](./wallpapers/wallhaven-8ggqqj.jpg)
-
-![wallhaven-8ggwz.jpg](./wallpapers/wallhaven-8ggwz.jpg)
-
-![wallhaven-8gkq8o.png](./wallpapers/wallhaven-8gkq8o.png)
-
-![wallhaven-96mlzd_3840x2160.png](./wallpapers/wallhaven-96mlzd_3840x2160.png)
-
-![wallhaven-9dkgyx_3840x2160.png](./wallpapers/wallhaven-9dkgyx_3840x2160.png)
-
-![wallhaven-9dkywx_3840x2160.png](./wallpapers/wallhaven-9dkywx_3840x2160.png)
-
-![wallhaven-9o8wv1.jpg](./wallpapers/wallhaven-9o8wv1.jpg)
-
-![wallhaven-9oojp8.png](./wallpapers/wallhaven-9oojp8.png)
-
-![wallhaven-d616vj.jpg](./wallpapers/wallhaven-d616vj.jpg)
-
-![wallhaven-d6l58m.jpg](./wallpapers/wallhaven-d6l58m.jpg)
-
-![wallhaven-d883yg.png](./wallpapers/wallhaven-d883yg.png)
-
-![wallhaven-e88pqw.png](./wallpapers/wallhaven-e88pqw.png)
-
-![wallhaven-e8oqkw.jpg](./wallpapers/wallhaven-e8oqkw.jpg)
-
-![wallhaven-gp3oll.png](./wallpapers/wallhaven-gp3oll.png)
-
-![wallhaven-gpm837_3840x2160.png](./wallpapers/wallhaven-gpm837_3840x2160.png)
-
-![wallhaven-gpo8p3.jpg](./wallpapers/wallhaven-gpo8p3.jpg)
-
-![wallhaven-gpqmkd_3840x2160.png](./wallpapers/wallhaven-gpqmkd_3840x2160.png)
-
-![wallhaven-gpy893_5824x3264.png](./wallpapers/wallhaven-gpy893_5824x3264.png)
-
-![wallhaven-gw5gjd.png](./wallpapers/wallhaven-gw5gjd.png)
-
-![wallhaven-gw5wyl.png](./wallpapers/wallhaven-gw5wyl.png)
-
-![wallhaven-k875o6.png](./wallpapers/wallhaven-k875o6.png)
-
-![wallhaven-k88p51.png](./wallpapers/wallhaven-k88p51.png)
-
-![wallhaven-kxo68q.jpg](./wallpapers/wallhaven-kxo68q.jpg)
-
-![wallhaven-kxqv8q_3840x2160.png](./wallpapers/wallhaven-kxqv8q_3840x2160.png)
-
-![wallhaven-kxyj5d.png](./wallpapers/wallhaven-kxyj5d.png)
-
-![wallhaven-l88qwy_3840x2160.png](./wallpapers/wallhaven-l88qwy_3840x2160.png)
-
-![wallhaven-l8exrr.jpg](./wallpapers/wallhaven-l8exrr.jpg)
-
-![wallhaven-lyz9xp.jpg](./wallpapers/wallhaven-lyz9xp.jpg)
-
-![wallhaven-m3kggk_3840x2160.png](./wallpapers/wallhaven-m3kggk_3840x2160.png)
-
-![wallhaven-o5ozx9.jpg](./wallpapers/wallhaven-o5ozx9.jpg)
-
-![wallhaven-o5pdel_3840x2160.png](./wallpapers/wallhaven-o5pdel_3840x2160.png)
-
-![wallhaven-o5pegl.jpg](./wallpapers/wallhaven-o5pegl.jpg)
-
-![wallhaven-o5w7x9_3840x2160.png](./wallpapers/wallhaven-o5w7x9_3840x2160.png)
-
-![wallhaven-og1775.jpg](./wallpapers/wallhaven-og1775.jpg)
-
-![wallhaven-ogd2e5.png](./wallpapers/wallhaven-ogd2e5.png)
-
-![wallhaven-ogdzd5.png](./wallpapers/wallhaven-ogdzd5.png)
-
-![wallhaven-p91rgj.jpg](./wallpapers/wallhaven-p91rgj.jpg)
-
-![wallhaven-p9e8y9_5824x3264.png](./wallpapers/wallhaven-p9e8y9_5824x3264.png)
-
-![wallhaven-polymm.png](./wallpapers/wallhaven-polymm.png)
-
-![wallhaven-qrgvll.png](./wallpapers/wallhaven-qrgvll.png)
-
-![wallhaven-rqox9m.png](./wallpapers/wallhaven-rqox9m.png)
-
-![wallhaven-rqqdlq.jpg](./wallpapers/wallhaven-rqqdlq.jpg)
-
-![wallhaven-rrme1w.png](./wallpapers/wallhaven-rrme1w.png)
-
-![wallhaven-vpzjo5.jpg](./wallpapers/wallhaven-vpzjo5.jpg)
-
-![wallhaven-vq2erp_3840x2160.png](./wallpapers/wallhaven-vq2erp_3840x2160.png)
-
-![wallhaven-vqp5e8_3840x2160.png](./wallpapers/wallhaven-vqp5e8_3840x2160.png)
-
-![wallhaven-w51qe7.png](./wallpapers/wallhaven-w51qe7.png)
-
-![wallhaven-we2826.jpg](./wallpapers/wallhaven-we2826.jpg)
-
-![wallhaven-we98vp_3840x2160.png](./wallpapers/wallhaven-we98vp_3840x2160.png)
-
-![wallhaven-x6pd8z.jpg](./wallpapers/wallhaven-x6pd8z.jpg)
-
-![wallhaven-xe515l.jpg](./wallpapers/wallhaven-xe515l.jpg)
-
-![wallhaven-yqev5d.jpg](./wallpapers/wallhaven-yqev5d.jpg)
-
-![wallhaven-yqmqk7.png](./wallpapers/wallhaven-yqmqk7.png)
-
-![wallhaven-yqqyol.png](./wallpapers/wallhaven-yqqyol.png)
-
-![wallhaven-zpp6zg.jpg](./wallpapers/wallhaven-zpp6zg.jpg)
-
-![wallpaper1.png](./wallpapers/wallpaper1.png)
-
-![Wet-Road.jpg](./wallpapers/Wet-Road.jpg)
+<table>
+  <tr>
+    <td width="33%"><img src="./wallpapers/2xl.jpg" width="100%" alt="2xl"></td>
+    <td width="33%"><img src="./wallpapers/4k-astronaut.jpg" width="100%" alt="4k astronaut"></td>
+    <td width="33%"><img src="./wallpapers/alpine-twilight-2560x1440.png" width="100%" alt="alpine twilight 2560x1440"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/anime-girl-blue-hair.jpg" width="100%" alt="anime girl blue hair"></td>
+    <td width="33%"><img src="./wallpapers/Anime-Girl1.png" width="100%" alt="Anime Girl1"></td>
+    <td width="33%"><img src="./wallpapers/Anime-Girl2.png" width="100%" alt="Anime Girl2"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/Anime-Girl3.png" width="100%" alt="Anime Girl3"></td>
+    <td width="33%"><img src="./wallpapers/Anime-Girl4.png" width="100%" alt="Anime Girl4"></td>
+    <td width="33%"><img src="./wallpapers/Anime-Purple-eyes.png" width="100%" alt="Anime Purple eyes"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/Arcade_decay_red.png" width="100%" alt="Arcade decay red"></td>
+    <td width="33%"><img src="./wallpapers/arch-catppuccin.png" width="100%" alt="arch catppuccin"></td>
+    <td width="33%"><img src="./wallpapers/Arch-chan_to.png" width="100%" alt="Arch chan to"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg" width="100%" alt="beautiful fantasy landscape desktop wallpaper"></td>
+    <td width="33%"><img src="./wallpapers/catppuccin.png" width="100%" alt="catppuccin"></td>
+    <td width="33%"><img src="./wallpapers/catppucin-Arch.jpg" width="100%" alt="catppucin Arch"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/cflktkjnv9ig1.jpeg" width="100%" alt="cflktkjnv9ig1"></td>
+    <td width="33%"><img src="./wallpapers/christmas-cybr.png" width="100%" alt="christmas cybr"></td>
+    <td width="33%"><img src="./wallpapers/crimson-feathers-2560x1440.png" width="100%" alt="crimson feathers 2560x1440"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/ember-eyes-3840x2160.png" width="100%" alt="ember eyes 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/fz570-wallpaper.cam.jpg" width="100%" alt="fz570 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/gd5351no3g6e1.jpeg" width="100%" alt="gd5351no3g6e1"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/heart_original.png" width="100%" alt="heart original"></td>
+    <td width="33%"><img src="./wallpapers/in335-wallpaper.cam.jpg" width="100%" alt="in335 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/ink-splash-cat-3840x2160.png" width="100%" alt="ink splash cat 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/ink-splash-feline-3840x2160.png" width="100%" alt="ink splash feline 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/jupiter.png" width="100%" alt="jupiter"></td>
+    <td width="33%"><img src="./wallpapers/kitty-catppuccin.png" width="100%" alt="kitty catppuccin"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/latenr.jpeg" width="100%" alt="latenr"></td>
+    <td width="33%"><img src="./wallpapers/Lofi - Study.png" width="100%" alt="Lofi   Study"></td>
+    <td width="33%"><img src="./wallpapers/Lowpoly_Street.png" width="100%" alt="Lowpoly Street"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/naa0pr80msvg1.png" width="100%" alt="naa0pr80msvg1"></td>
+    <td width="33%"><img src="./wallpapers/newsprint-peek-5120x2880.png" width="100%" alt="newsprint peek 5120x2880"></td>
+    <td width="33%"><img src="./wallpapers/pttwus9ouzpg1.png" width="100%" alt="pttwus9ouzpg1"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/q2u24ei1qxlg1.jpeg" width="100%" alt="q2u24ei1qxlg1"></td>
+    <td width="33%"><img src="./wallpapers/qkreagwmmukg1.png" width="100%" alt="qkreagwmmukg1"></td>
+    <td width="33%"><img src="./wallpapers/space-floating.jpg" width="100%" alt="space floating"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/space.png" width="100%" alt="space"></td>
+    <td width="33%"><img src="./wallpapers/spire-peak-2560x1440.png" width="100%" alt="spire peak 2560x1440"></td>
+    <td width="33%"><img src="./wallpapers/Street-1.png" width="100%" alt="Street 1"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/Street-2.png" width="100%" alt="Street 2"></td>
+    <td width="33%"><img src="./wallpapers/Study-table.png" width="100%" alt="Study table"></td>
+    <td width="33%"><img src="./wallpapers/sushi.jpg" width="100%" alt="sushi"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/train.png" width="100%" alt="train"></td>
+    <td width="33%"><img src="./wallpapers/vixem0i4zbog1.png" width="100%" alt="vixem0i4zbog1"></td>
+    <td width="33%"><img src="./wallpapers/wallhalla-75-2560x1440.jpg" width="100%" alt="wallhalla 75 2560x1440"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-1p5l6g.jpg" width="100%" alt="wallhaven 1p5l6g"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-1p5mqv.jpg" width="100%" alt="wallhaven 1p5mqv"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-1q89e3.jpg" width="100%" alt="wallhaven 1q89e3"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-1qq9y1.png" width="100%" alt="wallhaven 1qq9y1"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-21ko5m.jpg" width="100%" alt="wallhaven 21ko5m"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-2y3jzx_3840x2160.png" width="100%" alt="wallhaven 2y3jzx 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-2y625y_3840x2160.png" width="100%" alt="wallhaven 2y625y 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-3l72e3_3840x2160.png" width="100%" alt="wallhaven 3l72e3 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-3q9qky.png" width="100%" alt="wallhaven 3q9qky"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-3qzvr6.png" width="100%" alt="wallhaven 3qzvr6"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-5g9z53.jpg" width="100%" alt="wallhaven 5g9z53"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-5yy2o8.png" width="100%" alt="wallhaven 5yy2o8"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-7j6k53.jpg" width="100%" alt="wallhaven 7j6k53"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-7j6xry.jpg" width="100%" alt="wallhaven 7j6xry"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-7jg7rv.jpg" width="100%" alt="wallhaven 7jg7rv"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-7jxj1o.png" width="100%" alt="wallhaven 7jxj1o"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-7pdl1v.png" width="100%" alt="wallhaven 7pdl1v"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-7pdvmv.jpg" width="100%" alt="wallhaven 7pdvmv"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-7pzqje.jpg" width="100%" alt="wallhaven 7pzqje"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-8gegkj.png" width="100%" alt="wallhaven 8gegkj"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-8ggqqj.jpg" width="100%" alt="wallhaven 8ggqqj"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-8ggwz.jpg" width="100%" alt="wallhaven 8ggwz"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-8gkq8o.png" width="100%" alt="wallhaven 8gkq8o"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-96mlzd_3840x2160.png" width="100%" alt="wallhaven 96mlzd 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-9dkgyx_3840x2160.png" width="100%" alt="wallhaven 9dkgyx 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-9dkywx_3840x2160.png" width="100%" alt="wallhaven 9dkywx 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-9o8wv1.jpg" width="100%" alt="wallhaven 9o8wv1"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-9oojp8.png" width="100%" alt="wallhaven 9oojp8"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-d616vj.jpg" width="100%" alt="wallhaven d616vj"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-d6l58m.jpg" width="100%" alt="wallhaven d6l58m"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-d883yg.png" width="100%" alt="wallhaven d883yg"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-e88pqw.png" width="100%" alt="wallhaven e88pqw"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-e8oqkw.jpg" width="100%" alt="wallhaven e8oqkw"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-gp3oll.png" width="100%" alt="wallhaven gp3oll"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-gpm837_3840x2160.png" width="100%" alt="wallhaven gpm837 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-gpo8p3.jpg" width="100%" alt="wallhaven gpo8p3"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-gpqmkd_3840x2160.png" width="100%" alt="wallhaven gpqmkd 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-gpy893_5824x3264.png" width="100%" alt="wallhaven gpy893 5824x3264"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-gw5gjd.png" width="100%" alt="wallhaven gw5gjd"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-gw5wyl.png" width="100%" alt="wallhaven gw5wyl"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-k875o6.png" width="100%" alt="wallhaven k875o6"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-k88p51.png" width="100%" alt="wallhaven k88p51"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-kxo68q.jpg" width="100%" alt="wallhaven kxo68q"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-kxqv8q_3840x2160.png" width="100%" alt="wallhaven kxqv8q 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-kxyj5d.png" width="100%" alt="wallhaven kxyj5d"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-l88qwy_3840x2160.png" width="100%" alt="wallhaven l88qwy 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-l8exrr.jpg" width="100%" alt="wallhaven l8exrr"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-lyz9xp.jpg" width="100%" alt="wallhaven lyz9xp"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-m3kggk_3840x2160.png" width="100%" alt="wallhaven m3kggk 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-o5ozx9.jpg" width="100%" alt="wallhaven o5ozx9"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-o5pdel_3840x2160.png" width="100%" alt="wallhaven o5pdel 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-o5pegl.jpg" width="100%" alt="wallhaven o5pegl"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-o5w7x9_3840x2160.png" width="100%" alt="wallhaven o5w7x9 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-og1775.jpg" width="100%" alt="wallhaven og1775"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-ogd2e5.png" width="100%" alt="wallhaven ogd2e5"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-ogdzd5.png" width="100%" alt="wallhaven ogdzd5"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-p91rgj.jpg" width="100%" alt="wallhaven p91rgj"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-p9e8y9_5824x3264.png" width="100%" alt="wallhaven p9e8y9 5824x3264"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-polymm.png" width="100%" alt="wallhaven polymm"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-qrgvll.png" width="100%" alt="wallhaven qrgvll"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-rqox9m.png" width="100%" alt="wallhaven rqox9m"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-rqqdlq.jpg" width="100%" alt="wallhaven rqqdlq"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-rrme1w.png" width="100%" alt="wallhaven rrme1w"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-vpzjo5.jpg" width="100%" alt="wallhaven vpzjo5"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-vq2erp_3840x2160.png" width="100%" alt="wallhaven vq2erp 3840x2160"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-vqp5e8_3840x2160.png" width="100%" alt="wallhaven vqp5e8 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-w51qe7.png" width="100%" alt="wallhaven w51qe7"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-we2826.jpg" width="100%" alt="wallhaven we2826"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-we98vp_3840x2160.png" width="100%" alt="wallhaven we98vp 3840x2160"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-x6pd8z.jpg" width="100%" alt="wallhaven x6pd8z"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-xe515l.jpg" width="100%" alt="wallhaven xe515l"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-xek5md.png" width="100%" alt="wallhaven xek5md"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-yqev5d.jpg" width="100%" alt="wallhaven yqev5d"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-yqmqk7.png" width="100%" alt="wallhaven yqmqk7"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-yqqyol.png" width="100%" alt="wallhaven yqqyol"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-zpp6zg.jpg" width="100%" alt="wallhaven zpp6zg"></td>
+    <td width="33%"><img src="./wallpapers/wallpaper1.png" width="100%" alt="wallpaper1"></td>
+    <td width="33%"><img src="./wallpapers/Wet-Road.jpg" width="100%" alt="Wet Road"></td>
+  </tr>
+</table>
 
 ## 🛠️ Conversion Details
 All images are processed to match the Catppuccin Mocha Palette hex codes:
