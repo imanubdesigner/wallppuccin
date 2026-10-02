@@ -2,6 +2,8 @@
 
 A curated collection of wallpapers converted to the **Catppuccin Mocha** color palette.
 
+> 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)** ↓
+
 ## 🌌 Why Mocha?
 Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contrast yet soft aesthetic. This repository aims to be the go-to place for Mocha lovers.
 
