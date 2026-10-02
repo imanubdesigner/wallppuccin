@@ -215,6 +215,18 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
 </table>
 
+## 🍡 Pastelppuccin
+
+**[Pastelppuccin](https://github.com/imanubdesigner/omarchy-pastelppuccin-theme)** is the matching Omarchy theme — Catppuccin Mocha, softened: ink-blue backgrounds, lavender text, and colors drawn straight from these wallpapers.
+
+```bash
+omarchy theme install https://github.com/imanubdesigner/omarchy-pastelppuccin-theme
+```
+
+<p align="center">
+  <img src="./pastelppuccin-tour.gif" alt="Tour of the Pastelppuccin project" width="550">
+</p>
+
 ## 🛠️ Conversion Details
 All images are processed to match the Catppuccin Mocha Palette hex codes:
 | Preview | Color Name | Hex |
