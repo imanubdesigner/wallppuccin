@@ -28,6 +28,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><img src="./wallpapers/white-cat-with-red-umbrella.jpg" width="100%" alt="white cat with red umbrella"></td>
     <td width="33%"><img src="./wallpapers/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.jpg" width="100%" alt="wildflower meadows wallpaper 3840x2160 flower season colorful landscapes 29897"></td>
+    <td width="33%"><img src="./wallpapers/angry-joker.jpg" width="100%" alt="angry joker"></td>
   </tr>
   <tr>
     <td width="33%"><img src="./wallpapers/2xl.jpg" width="100%" alt="2xl"></td>
