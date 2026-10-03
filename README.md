@@ -11,6 +11,25 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 <table>
   <tr>
+    <td width="33%"><img src="./wallpapers/cozy-dreamy-room.jpg" width="100%" alt="cozy dreamy room"></td>
+    <td width="33%"><img src="./wallpapers/crimson-bloom-serenity.jpg" width="100%" alt="crimson bloom serenity"></td>
+    <td width="33%"><img src="./wallpapers/ghibli-style-wallpaper.jpg" width="100%" alt="ghibli style wallpaper"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/jungle-cats-hideaway.jpg" width="100%" alt="jungle cats hideaway"></td>
+    <td width="33%"><img src="./wallpapers/rainy-road-reverie.jpg" width="100%" alt="rainy road reverie"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-5y3oj1.jpg" width="100%" alt="wallhaven 5y3oj1"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wallhaven-qrppzl.jpg" width="100%" alt="wallhaven qrppzl"></td>
+    <td width="33%"><img src="./wallpapers/wallhaven-yq9or7.png" width="100%" alt="wallhaven yq9or7"></td>
+    <td width="33%"><img src="./wallpapers/whispering-meadows-cottage.jpg" width="100%" alt="whispering meadows cottage"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/white-cat-with-red-umbrella.jpg" width="100%" alt="white cat with red umbrella"></td>
+    <td width="33%"><img src="./wallpapers/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.jpg" width="100%" alt="wildflower meadows wallpaper 3840x2160 flower season colorful landscapes 29897"></td>
+  </tr>
+  <tr>
     <td width="33%"><img src="./wallpapers/2xl.jpg" width="100%" alt="2xl"></td>
     <td width="33%"><img src="./wallpapers/4k-astronaut.jpg" width="100%" alt="4k astronaut"></td>
     <td width="33%"><img src="./wallpapers/alpine-twilight-2560x1440.png" width="100%" alt="alpine twilight 2560x1440"></td>
