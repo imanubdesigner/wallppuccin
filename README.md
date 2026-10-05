@@ -11,6 +11,61 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 <table>
   <tr>
+    <td width="33%"><img src="./wallpapers/bn176-wallpaper.jpg" width="100%" alt="bn176 wallpaper"></td>
+    <td width="33%"><img src="./wallpapers/dk375-wallpaper.cam.jpg" width="100%" alt="dk375 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/dl882-wallpaper.cam.jpg" width="100%" alt="dl882 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper-4k.jpg" width="100%" alt="enchanted forest mushroom deer pastel dreamy desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k.jpg" width="100%" alt="eren yeager biting hand attack on titan desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/ew630-wallpaper.cam.jpg" width="100%" alt="ew630 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/fc158-wallpaper.cam.jpg" width="100%" alt="fc158 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/fk840-wallpaper.cam.jpg" width="100%" alt="fk840 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/fox-mask-girl-anime-noir-desktop-wallpaper-4k.jpg" width="100%" alt="fox mask girl anime noir desktop wallpaper 4k"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/gf762-wallpaper.jpg" width="100%" alt="gf762 wallpaper"></td>
+    <td width="33%"><img src="./wallpapers/hi835-wallpaper.cam.jpg" width="100%" alt="hi835 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/io682-wallpaper.cam.jpg" width="100%" alt="io682 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/ir160-wallpaper.cam.jpg" width="100%" alt="ir160 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/iy773-wallpaper.cam.jpg" width="100%" alt="iy773 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/jh428-wallpaper.cam.jpg" width="100%" alt="jh428 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/jv145-wallpaper.cam.jpg" width="100%" alt="jv145 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/kasane-teto-cozy-pink-anime-girl-desktop-wallpaper-4k.jpg" width="100%" alt="kasane teto cozy pink anime girl desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/kasane-teto-pink-anime-portrait-desktop-wallpaper-4k.jpg" width="100%" alt="kasane teto pink anime portrait desktop wallpaper 4k"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper-4k.jpg" width="100%" alt="kawaii girl hello kitty christmas bedroom desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/li200-wallpaper.jpg" width="100%" alt="li200 wallpaper"></td>
+    <td width="33%"><img src="./wallpapers/oc191-wallpaper.cam.jpg" width="100%" alt="oc191 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/on157-wallpaper.cam.jpg" width="100%" alt="on157 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/oq349-wallpaper.cam.jpg" width="100%" alt="oq349 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/pc764-wallpaper.jpg" width="100%" alt="pc764 wallpaper"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/pl663-wallpaper.cam.jpg" width="100%" alt="pl663 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/power-chainsaw-man-neon-chaos-desktop-wallpaper-4k.jpg" width="100%" alt="power chainsaw man neon chaos desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/qb332-wallpaper.jpg" width="100%" alt="qb332 wallpaper"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper-4k.jpg" width="100%" alt="starry sky sad anime girl aesthetic night desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper-4k.jpg" width="100%" alt="totoro flower crown night forest aesthetic desktop wallpaper 4k"></td>
+    <td width="33%"><img src="./wallpapers/tx409-wallpaper.cam.jpg" width="100%" alt="tx409 wallpaper.cam"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallpapers/wj134-wallpaper.cam.jpg" width="100%" alt="wj134 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/wt972-wallpaper.cam.jpg" width="100%" alt="wt972 wallpaper.cam"></td>
+    <td width="33%"><img src="./wallpapers/xa085-wallpaper.cam.jpg" width="100%" alt="xa085 wallpaper.cam"></td>
+  </tr>
+  <tr>
     <td width="33%"><img src="./wallpapers/cozy-dreamy-room.jpg" width="100%" alt="cozy dreamy room"></td>
     <td width="33%"><img src="./wallpapers/crimson-bloom-serenity.jpg" width="100%" alt="crimson bloom serenity"></td>
     <td width="33%"><img src="./wallpapers/ghibli-style-wallpaper.jpg" width="100%" alt="ghibli style wallpaper"></td>
