@@ -2,6 +2,8 @@
 
 A curated collection of wallpapers converted to the **Catppuccin Mocha** color palette.
 
+Most of the wallpapers here are lightly retouched, above all to bring them to a standard 4K resolution (3840×2160), so they look sharp on any screen. Once in a while I also add small details that I draw myself.
+
 > 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)** ↓
 
 ## 🌌 Why Mocha?
@@ -327,4 +329,4 @@ All images are processed to match the Catppuccin Mocha Palette hex codes:
 
 ## 🔗 Credits
 - Colors by [Catppuccin](https://github.com/catppuccin/catppuccin).
-- Original images from [Wallhaven](https://wallhaven.cc).
+- Original images mainly from [Wallhaven](https://wallhaven.cc), plus other sources I come across while browsing the web.
