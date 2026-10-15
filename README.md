@@ -11,7 +11,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
-**168 wallpapers.** Newest additions first. Every thumbnail is 640×360 and links to the full-resolution image.
+**168 wallpapers.** The most recent additions come first — the newest are the first rows, so returning visitors spot them right away. Every thumbnail is 640×360 and links to the full-resolution image.
 
 <table>
   <tr>
@@ -89,6 +89,12 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.jpg" target="_blank"><img src="./thumbs/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.webp" loading="lazy" width="100%" alt="wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/angry-joker.jpg" target="_blank"><img src="./thumbs/angry-joker.webp" loading="lazy" width="100%" alt="angry-joker"></a></td>
   </tr>
+</table>
+
+<details>
+<summary><b>Show the remaining 123 wallpapers</b> · older additions</summary>
+
+<table>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/2xl.jpg" target="_blank"><img src="./thumbs/2xl.webp" loading="lazy" width="100%" alt="2xl"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/4k-astronaut.jpg" target="_blank"><img src="./thumbs/4k-astronaut.webp" loading="lazy" width="100%" alt="4k-astronaut"></a></td>
@@ -295,6 +301,8 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Wet-Road.jpg" target="_blank"><img src="./thumbs/Wet-Road.webp" loading="lazy" width="100%" alt="Wet-Road"></a></td>
   </tr>
 </table>
+
+</details>
 
 ## 🍡 Pastelppuccin
 
