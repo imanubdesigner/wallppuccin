@@ -11,9 +11,74 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
-**168 wallpapers.** The most recent additions come first — the newest are the first rows, so returning visitors spot them right away. Every thumbnail is 640×360 and links to the full-resolution image.
+**207 wallpapers.** The most recent additions come first — the newest are the first rows, so returning visitors spot them right away. Every thumbnail is 640×360 and links to the full-resolution image.
 
 <table>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-street-night-moody-look-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/anime-girl-street-night-moody-look-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="anime-girl-street-night-moody-look-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/atmosphere-plant-natural_landscape-twig.png" target="_blank"><img src="./thumbs/atmosphere-plant-natural_landscape-twig.webp" loading="lazy" width="100%" alt="atmosphere-plant-natural_landscape-twig"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/genshin_impact-dehya-dunyarzad-hoyolab.png" target="_blank"><img src="./thumbs/genshin_impact-dehya-dunyarzad-hoyolab.webp" loading="lazy" width="100%" alt="genshin_impact-dehya-dunyarzad-hoyolab"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/girl-on-the-bad.png" target="_blank"><img src="./thumbs/girl-on-the-bad.webp" loading="lazy" width="100%" alt="girl-on-the-bad"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160.jpg" target="_blank"><img src="./thumbs/img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160.webp" loading="lazy" width="100%" alt="img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/outer_space-universe-astronomical_object-pink-purple.jpg" target="_blank"><img src="./thumbs/outer_space-universe-astronomical_object-pink-purple.webp" loading="lazy" width="100%" alt="outer_space-universe-astronomical_object-pink-purple"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/reign_of_brayshaw-flower-lavender-aster-table.jpg" target="_blank"><img src="./thumbs/reign_of_brayshaw-flower-lavender-aster-table.webp" loading="lazy" width="100%" alt="reign_of_brayshaw-flower-lavender-aster-table"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-212k56.jpg" target="_blank"><img src="./thumbs/wallhaven-212k56.webp" loading="lazy" width="100%" alt="wallhaven-212k56"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q3j6y.jpg" target="_blank"><img src="./thumbs/wallhaven-3q3j6y.webp" loading="lazy" width="100%" alt="wallhaven-3q3j6y"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q77p6.jpg" target="_blank"><img src="./thumbs/wallhaven-3q77p6.webp" loading="lazy" width="100%" alt="wallhaven-3q77p6"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5gxvv3.png" target="_blank"><img src="./thumbs/wallhaven-5gxvv3.webp" loading="lazy" width="100%" alt="wallhaven-5gxvv3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5y3g55.jpg" target="_blank"><img src="./thumbs/wallhaven-5y3g55.webp" loading="lazy" width="100%" alt="wallhaven-5y3g55"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-6lpdjl.jpg" target="_blank"><img src="./thumbs/wallhaven-6lpdjl.webp" loading="lazy" width="100%" alt="wallhaven-6lpdjl"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jlpqy.png" target="_blank"><img src="./thumbs/wallhaven-7jlpqy.webp" loading="lazy" width="100%" alt="wallhaven-7jlpqy"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8g957j.png" target="_blank"><img src="./thumbs/wallhaven-8g957j.webp" loading="lazy" width="100%" alt="wallhaven-8g957j"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9o8k9w.png" target="_blank"><img src="./thumbs/wallhaven-9o8k9w.webp" loading="lazy" width="100%" alt="wallhaven-9o8k9w"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ode5x.jpg" target="_blank"><img src="./thumbs/wallhaven-9ode5x.webp" loading="lazy" width="100%" alt="wallhaven-9ode5x"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ogd61.jpg" target="_blank"><img src="./thumbs/wallhaven-9ogd61.webp" loading="lazy" width="100%" alt="wallhaven-9ogd61"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ok7ok.jpg" target="_blank"><img src="./thumbs/wallhaven-9ok7ok.webp" loading="lazy" width="100%" alt="wallhaven-9ok7ok"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9orlxx.jpg" target="_blank"><img src="./thumbs/wallhaven-9orlxx.webp" loading="lazy" width="100%" alt="wallhaven-9orlxx"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d83owj.png" target="_blank"><img src="./thumbs/wallhaven-d83owj.webp" loading="lazy" width="100%" alt="wallhaven-d83owj"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk.png" target="_blank"><img src="./thumbs/wallhaven-e861zk.webp" loading="lazy" width="100%" alt="wallhaven-e861zk"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-2.png" target="_blank"><img src="./thumbs/wallhaven-e861zk-2.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-2"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-3.png" target="_blank"><img src="./thumbs/wallhaven-e861zk-3.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-3"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-exl918.jpg" target="_blank"><img src="./thumbs/wallhaven-exl918.webp" loading="lazy" width="100%" alt="wallhaven-exl918"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw55p3.jpg" target="_blank"><img src="./thumbs/wallhaven-gw55p3.webp" loading="lazy" width="100%" alt="wallhaven-gw55p3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gwmdmq.png" target="_blank"><img src="./thumbs/wallhaven-gwmdmq.webp" loading="lazy" width="100%" alt="wallhaven-gwmdmq"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-jek28w.jpg" target="_blank"><img src="./thumbs/wallhaven-jek28w.webp" loading="lazy" width="100%" alt="wallhaven-jek28w"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k8dxwq.jpg" target="_blank"><img src="./thumbs/wallhaven-k8dxwq.webp" loading="lazy" width="100%" alt="wallhaven-k8dxwq"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-po7x3e.png" target="_blank"><img src="./thumbs/wallhaven-po7x3e.webp" loading="lazy" width="100%" alt="wallhaven-po7x3e"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgexq.png" target="_blank"><img src="./thumbs/wallhaven-qrgexq.webp" loading="lazy" width="100%" alt="wallhaven-qrgexq"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrjq8l.jpg" target="_blank"><img src="./thumbs/wallhaven-qrjq8l.webp" loading="lazy" width="100%" alt="wallhaven-qrjq8l"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vpowxm.jpg" target="_blank"><img src="./thumbs/wallhaven-vpowxm.webp" loading="lazy" width="100%" alt="wallhaven-vpowxm"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w51g16.jpg" target="_blank"><img src="./thumbs/wallhaven-w51g16.webp" loading="lazy" width="100%" alt="wallhaven-w51g16"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w53vxp.png" target="_blank"><img src="./thumbs/wallhaven-w53vxp.webp" loading="lazy" width="100%" alt="wallhaven-w53vxp"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w5doeq.png" target="_blank"><img src="./thumbs/wallhaven-w5doeq.webp" loading="lazy" width="100%" alt="wallhaven-w5doeq"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yq26xl.jpg" target="_blank"><img src="./thumbs/wallhaven-yq26xl.webp" loading="lazy" width="100%" alt="wallhaven-yq26xl"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yq2q3k.jpg" target="_blank"><img src="./thumbs/wallhaven-yq2q3k.webp" loading="lazy" width="100%" alt="wallhaven-yq2q3k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-zpoeqg.jpg" target="_blank"><img src="./thumbs/wallhaven-zpoeqg.webp" loading="lazy" width="100%" alt="wallhaven-zpoeqg"></a></td>
+  </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/bn176-wallpaper.jpg" target="_blank"><img src="./thumbs/bn176-wallpaper.webp" loading="lazy" width="100%" alt="bn176-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/dk375-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/dk375-wallpaper.cam.webp" loading="lazy" width="100%" alt="dk375-wallpaper.cam"></a></td>
@@ -24,6 +89,12 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ew630-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/ew630-wallpaper.cam.webp" loading="lazy" width="100%" alt="ew630-wallpaper.cam"></a></td>
   </tr>
+</table>
+
+<details>
+<summary><b>Show the remaining 162 wallpapers</b> · older additions</summary>
+
+<table>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fc158-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fc158-wallpaper.cam.webp" loading="lazy" width="100%" alt="fc158-wallpaper.cam"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fk840-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fk840-wallpaper.cam.webp" loading="lazy" width="100%" alt="fk840-wallpaper.cam"></a></td>
@@ -89,12 +160,6 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.jpg" target="_blank"><img src="./thumbs/wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897.webp" loading="lazy" width="100%" alt="wildflower-meadows-wallpaper-3840x2160-flower-season-colorful-landscapes-29897"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/angry-joker.jpg" target="_blank"><img src="./thumbs/angry-joker.webp" loading="lazy" width="100%" alt="angry-joker"></a></td>
   </tr>
-</table>
-
-<details>
-<summary><b>Show the remaining 123 wallpapers</b> · older additions</summary>
-
-<table>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/2xl.jpg" target="_blank"><img src="./thumbs/2xl.webp" loading="lazy" width="100%" alt="2xl"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/4k-astronaut.jpg" target="_blank"><img src="./thumbs/4k-astronaut.webp" loading="lazy" width="100%" alt="4k-astronaut"></a></td>
