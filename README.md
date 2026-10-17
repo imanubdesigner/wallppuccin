@@ -16,11 +16,11 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 <table>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-street-night-moody-look-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/anime-girl-street-night-moody-look-desktop-wallpaper.webp" loading="lazy" width="100%" alt="anime-girl-street-night-moody-look-desktop-wallpaper"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/atmosphere-plant-natural_landscape-twig.png" target="_blank"><img src="./thumbs/atmosphere-plant-natural_landscape-twig.webp" loading="lazy" width="100%" alt="atmosphere-plant-natural_landscape-twig"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/genshin_impact-dehya-dunyarzad-hoyolab.png" target="_blank"><img src="./thumbs/genshin_impact-dehya-dunyarzad-hoyolab.webp" loading="lazy" width="100%" alt="genshin_impact-dehya-dunyarzad-hoyolab"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/atmosphere-plant-natural_landscape-twig.webp" target="_blank"><img src="./thumbs/atmosphere-plant-natural_landscape-twig.webp" loading="lazy" width="100%" alt="atmosphere-plant-natural_landscape-twig"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/genshin_impact-dehya-dunyarzad-hoyolab.webp" target="_blank"><img src="./thumbs/genshin_impact-dehya-dunyarzad-hoyolab.webp" loading="lazy" width="100%" alt="genshin_impact-dehya-dunyarzad-hoyolab"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/girl-on-the-bad.png" target="_blank"><img src="./thumbs/girl-on-the-bad.webp" loading="lazy" width="100%" alt="girl-on-the-bad"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/girl-on-the-bad.webp" target="_blank"><img src="./thumbs/girl-on-the-bad.webp" loading="lazy" width="100%" alt="girl-on-the-bad"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/img1.wallspic.com-windjammer-ship-sailing_ship.jpg" target="_blank"><img src="./thumbs/img1.wallspic.com-windjammer-ship-sailing_ship.webp" loading="lazy" width="100%" alt="img1.wallspic.com-windjammer-ship-sailing_ship"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/outer_space-universe-astronomical_object-pink-purple.jpg" target="_blank"><img src="./thumbs/outer_space-universe-astronomical_object-pink-purple.webp" loading="lazy" width="100%" alt="outer_space-universe-astronomical_object-pink-purple"></a></td>
   </tr>
@@ -31,48 +31,48 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q77p6.jpg" target="_blank"><img src="./thumbs/wallhaven-3q77p6.webp" loading="lazy" width="100%" alt="wallhaven-3q77p6"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5gxvv3.png" target="_blank"><img src="./thumbs/wallhaven-5gxvv3.webp" loading="lazy" width="100%" alt="wallhaven-5gxvv3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5gxvv3.webp" target="_blank"><img src="./thumbs/wallhaven-5gxvv3.webp" loading="lazy" width="100%" alt="wallhaven-5gxvv3"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5y3g55.jpg" target="_blank"><img src="./thumbs/wallhaven-5y3g55.webp" loading="lazy" width="100%" alt="wallhaven-5y3g55"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-6lpdjl.jpg" target="_blank"><img src="./thumbs/wallhaven-6lpdjl.webp" loading="lazy" width="100%" alt="wallhaven-6lpdjl"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jlpqy.png" target="_blank"><img src="./thumbs/wallhaven-7jlpqy.webp" loading="lazy" width="100%" alt="wallhaven-7jlpqy"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8g957j.png" target="_blank"><img src="./thumbs/wallhaven-8g957j.webp" loading="lazy" width="100%" alt="wallhaven-8g957j"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jlpqy.webp" target="_blank"><img src="./thumbs/wallhaven-7jlpqy.webp" loading="lazy" width="100%" alt="wallhaven-7jlpqy"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8g957j.webp" target="_blank"><img src="./thumbs/wallhaven-8g957j.webp" loading="lazy" width="100%" alt="wallhaven-8g957j"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9o8k9w.png" target="_blank"><img src="./thumbs/wallhaven-9o8k9w.webp" loading="lazy" width="100%" alt="wallhaven-9o8k9w"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9o8k9w.webp" target="_blank"><img src="./thumbs/wallhaven-9o8k9w.webp" loading="lazy" width="100%" alt="wallhaven-9o8k9w"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ode5x.jpg" target="_blank"><img src="./thumbs/wallhaven-9ode5x.webp" loading="lazy" width="100%" alt="wallhaven-9ode5x"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ogd61.jpg" target="_blank"><img src="./thumbs/wallhaven-9ogd61.webp" loading="lazy" width="100%" alt="wallhaven-9ogd61"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9ok7ok.jpg" target="_blank"><img src="./thumbs/wallhaven-9ok7ok.webp" loading="lazy" width="100%" alt="wallhaven-9ok7ok"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9orlxx.jpg" target="_blank"><img src="./thumbs/wallhaven-9orlxx.webp" loading="lazy" width="100%" alt="wallhaven-9orlxx"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d83owj.png" target="_blank"><img src="./thumbs/wallhaven-d83owj.webp" loading="lazy" width="100%" alt="wallhaven-d83owj"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d83owj.webp" target="_blank"><img src="./thumbs/wallhaven-d83owj.webp" loading="lazy" width="100%" alt="wallhaven-d83owj"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk.png" target="_blank"><img src="./thumbs/wallhaven-e861zk.webp" loading="lazy" width="100%" alt="wallhaven-e861zk"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-2.png" target="_blank"><img src="./thumbs/wallhaven-e861zk-2.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-2"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-3.png" target="_blank"><img src="./thumbs/wallhaven-e861zk-3.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk.webp" target="_blank"><img src="./thumbs/wallhaven-e861zk.webp" loading="lazy" width="100%" alt="wallhaven-e861zk"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-2.webp" target="_blank"><img src="./thumbs/wallhaven-e861zk-2.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-2"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e861zk-3.webp" target="_blank"><img src="./thumbs/wallhaven-e861zk-3.webp" loading="lazy" width="100%" alt="wallhaven-e861zk-3"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-exl918.jpg" target="_blank"><img src="./thumbs/wallhaven-exl918.webp" loading="lazy" width="100%" alt="wallhaven-exl918"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw55p3.jpg" target="_blank"><img src="./thumbs/wallhaven-gw55p3.webp" loading="lazy" width="100%" alt="wallhaven-gw55p3"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gwmdmq.png" target="_blank"><img src="./thumbs/wallhaven-gwmdmq.webp" loading="lazy" width="100%" alt="wallhaven-gwmdmq"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gwmdmq.webp" target="_blank"><img src="./thumbs/wallhaven-gwmdmq.webp" loading="lazy" width="100%" alt="wallhaven-gwmdmq"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-jek28w.jpg" target="_blank"><img src="./thumbs/wallhaven-jek28w.webp" loading="lazy" width="100%" alt="wallhaven-jek28w"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k8dxwq.jpg" target="_blank"><img src="./thumbs/wallhaven-k8dxwq.webp" loading="lazy" width="100%" alt="wallhaven-k8dxwq"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-po7x3e.png" target="_blank"><img src="./thumbs/wallhaven-po7x3e.webp" loading="lazy" width="100%" alt="wallhaven-po7x3e"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-po7x3e.webp" target="_blank"><img src="./thumbs/wallhaven-po7x3e.webp" loading="lazy" width="100%" alt="wallhaven-po7x3e"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgexq.png" target="_blank"><img src="./thumbs/wallhaven-qrgexq.webp" loading="lazy" width="100%" alt="wallhaven-qrgexq"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgexq.webp" target="_blank"><img src="./thumbs/wallhaven-qrgexq.webp" loading="lazy" width="100%" alt="wallhaven-qrgexq"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrjq8l.jpg" target="_blank"><img src="./thumbs/wallhaven-qrjq8l.webp" loading="lazy" width="100%" alt="wallhaven-qrjq8l"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vpowxm.jpg" target="_blank"><img src="./thumbs/wallhaven-vpowxm.webp" loading="lazy" width="100%" alt="wallhaven-vpowxm"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w51g16.jpg" target="_blank"><img src="./thumbs/wallhaven-w51g16.webp" loading="lazy" width="100%" alt="wallhaven-w51g16"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w53vxp.png" target="_blank"><img src="./thumbs/wallhaven-w53vxp.webp" loading="lazy" width="100%" alt="wallhaven-w53vxp"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w5doeq.png" target="_blank"><img src="./thumbs/wallhaven-w5doeq.webp" loading="lazy" width="100%" alt="wallhaven-w5doeq"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w53vxp.webp" target="_blank"><img src="./thumbs/wallhaven-w53vxp.webp" loading="lazy" width="100%" alt="wallhaven-w53vxp"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w5doeq.webp" target="_blank"><img src="./thumbs/wallhaven-w5doeq.webp" loading="lazy" width="100%" alt="wallhaven-w5doeq"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yq26xl.jpg" target="_blank"><img src="./thumbs/wallhaven-yq26xl.webp" loading="lazy" width="100%" alt="wallhaven-yq26xl"></a></td>
@@ -152,7 +152,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrppzl.jpg" target="_blank"><img src="./thumbs/wallhaven-qrppzl.webp" loading="lazy" width="100%" alt="wallhaven-qrppzl"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yq9or7.png" target="_blank"><img src="./thumbs/wallhaven-yq9or7.webp" loading="lazy" width="100%" alt="wallhaven-yq9or7"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yq9or7.webp" target="_blank"><img src="./thumbs/wallhaven-yq9or7.webp" loading="lazy" width="100%" alt="wallhaven-yq9or7"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/whispering-meadows-cottage.jpg" target="_blank"><img src="./thumbs/whispering-meadows-cottage.webp" loading="lazy" width="100%" alt="whispering-meadows-cottage"></a></td>
   </tr>
   <tr>
@@ -163,76 +163,76 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/2xl.jpg" target="_blank"><img src="./thumbs/2xl.webp" loading="lazy" width="100%" alt="2xl"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/4k-astronaut.jpg" target="_blank"><img src="./thumbs/4k-astronaut.webp" loading="lazy" width="100%" alt="4k-astronaut"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/alpine-twilight.png" target="_blank"><img src="./thumbs/alpine-twilight.webp" loading="lazy" width="100%" alt="alpine-twilight"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/alpine-twilight.webp" target="_blank"><img src="./thumbs/alpine-twilight.webp" loading="lazy" width="100%" alt="alpine-twilight"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-blue-hair.jpg" target="_blank"><img src="./thumbs/anime-girl-blue-hair.webp" loading="lazy" width="100%" alt="anime-girl-blue-hair"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl1.png" target="_blank"><img src="./thumbs/Anime-Girl1.webp" loading="lazy" width="100%" alt="Anime-Girl1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl2.png" target="_blank"><img src="./thumbs/Anime-Girl2.webp" loading="lazy" width="100%" alt="Anime-Girl2"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl1.webp" target="_blank"><img src="./thumbs/Anime-Girl1.webp" loading="lazy" width="100%" alt="Anime-Girl1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl2.webp" target="_blank"><img src="./thumbs/Anime-Girl2.webp" loading="lazy" width="100%" alt="Anime-Girl2"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl3.png" target="_blank"><img src="./thumbs/Anime-Girl3.webp" loading="lazy" width="100%" alt="Anime-Girl3"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl4.png" target="_blank"><img src="./thumbs/Anime-Girl4.webp" loading="lazy" width="100%" alt="Anime-Girl4"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Purple-eyes.png" target="_blank"><img src="./thumbs/Anime-Purple-eyes.webp" loading="lazy" width="100%" alt="Anime-Purple-eyes"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl3.webp" target="_blank"><img src="./thumbs/Anime-Girl3.webp" loading="lazy" width="100%" alt="Anime-Girl3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Girl4.webp" target="_blank"><img src="./thumbs/Anime-Girl4.webp" loading="lazy" width="100%" alt="Anime-Girl4"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Anime-Purple-eyes.webp" target="_blank"><img src="./thumbs/Anime-Purple-eyes.webp" loading="lazy" width="100%" alt="Anime-Purple-eyes"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Arcade_decay_red.png" target="_blank"><img src="./thumbs/Arcade_decay_red.webp" loading="lazy" width="100%" alt="Arcade_decay_red"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/arch-catppuccin.png" target="_blank"><img src="./thumbs/arch-catppuccin.webp" loading="lazy" width="100%" alt="arch-catppuccin"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Arch-chan_to.png" target="_blank"><img src="./thumbs/Arch-chan_to.webp" loading="lazy" width="100%" alt="Arch-chan_to"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Arcade_decay_red.webp" target="_blank"><img src="./thumbs/Arcade_decay_red.webp" loading="lazy" width="100%" alt="Arcade_decay_red"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/arch-catppuccin.webp" target="_blank"><img src="./thumbs/arch-catppuccin.webp" loading="lazy" width="100%" alt="arch-catppuccin"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Arch-chan_to.webp" target="_blank"><img src="./thumbs/Arch-chan_to.webp" loading="lazy" width="100%" alt="Arch-chan_to"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/beautiful-fantasy-landscape-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/beautiful-fantasy-landscape-desktop-wallpaper.webp" loading="lazy" width="100%" alt="beautiful-fantasy-landscape-desktop-wallpaper"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/catppuccin.png" target="_blank"><img src="./thumbs/catppuccin.webp" loading="lazy" width="100%" alt="catppuccin"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/catppuccin.webp" target="_blank"><img src="./thumbs/catppuccin.webp" loading="lazy" width="100%" alt="catppuccin"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/catppucin-Arch.jpg" target="_blank"><img src="./thumbs/catppucin-Arch.webp" loading="lazy" width="100%" alt="catppucin-Arch"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/cflktkjnv9ig1.jpeg" target="_blank"><img src="./thumbs/cflktkjnv9ig1.webp" loading="lazy" width="100%" alt="cflktkjnv9ig1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/christmas-cybr.png" target="_blank"><img src="./thumbs/christmas-cybr.webp" loading="lazy" width="100%" alt="christmas-cybr"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/crimson-feathers.png" target="_blank"><img src="./thumbs/crimson-feathers.webp" loading="lazy" width="100%" alt="crimson-feathers"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/christmas-cybr.webp" target="_blank"><img src="./thumbs/christmas-cybr.webp" loading="lazy" width="100%" alt="christmas-cybr"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/crimson-feathers.webp" target="_blank"><img src="./thumbs/crimson-feathers.webp" loading="lazy" width="100%" alt="crimson-feathers"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ember-eyes.png" target="_blank"><img src="./thumbs/ember-eyes.webp" loading="lazy" width="100%" alt="ember-eyes"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ember-eyes.webp" target="_blank"><img src="./thumbs/ember-eyes.webp" loading="lazy" width="100%" alt="ember-eyes"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fz570-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fz570-wallpaper.cam.webp" loading="lazy" width="100%" alt="fz570-wallpaper.cam"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/gd5351no3g6e1.jpeg" target="_blank"><img src="./thumbs/gd5351no3g6e1.webp" loading="lazy" width="100%" alt="gd5351no3g6e1"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/heart_original.png" target="_blank"><img src="./thumbs/heart_original.webp" loading="lazy" width="100%" alt="heart_original"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/heart_original.webp" target="_blank"><img src="./thumbs/heart_original.webp" loading="lazy" width="100%" alt="heart_original"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/in335-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/in335-wallpaper.cam.webp" loading="lazy" width="100%" alt="in335-wallpaper.cam"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-cat.png" target="_blank"><img src="./thumbs/ink-splash-cat.webp" loading="lazy" width="100%" alt="ink-splash-cat"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-cat.webp" target="_blank"><img src="./thumbs/ink-splash-cat.webp" loading="lazy" width="100%" alt="ink-splash-cat"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-feline.png" target="_blank"><img src="./thumbs/ink-splash-feline.webp" loading="lazy" width="100%" alt="ink-splash-feline"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/jupiter.png" target="_blank"><img src="./thumbs/jupiter.webp" loading="lazy" width="100%" alt="jupiter"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kitty-catppuccin.png" target="_blank"><img src="./thumbs/kitty-catppuccin.webp" loading="lazy" width="100%" alt="kitty-catppuccin"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-feline.webp" target="_blank"><img src="./thumbs/ink-splash-feline.webp" loading="lazy" width="100%" alt="ink-splash-feline"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/jupiter.webp" target="_blank"><img src="./thumbs/jupiter.webp" loading="lazy" width="100%" alt="jupiter"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kitty-catppuccin.webp" target="_blank"><img src="./thumbs/kitty-catppuccin.webp" loading="lazy" width="100%" alt="kitty-catppuccin"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/latenr.jpeg" target="_blank"><img src="./thumbs/latenr.webp" loading="lazy" width="100%" alt="latenr"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Lofi%20-%20Study.png" target="_blank"><img src="./thumbs/Lofi%20-%20Study.webp" loading="lazy" width="100%" alt="Lofi - Study"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Lowpoly_Street.png" target="_blank"><img src="./thumbs/Lowpoly_Street.webp" loading="lazy" width="100%" alt="Lowpoly_Street"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Lofi%20-%20Study.webp" target="_blank"><img src="./thumbs/Lofi%20-%20Study.webp" loading="lazy" width="100%" alt="Lofi - Study"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Lowpoly_Street.webp" target="_blank"><img src="./thumbs/Lowpoly_Street.webp" loading="lazy" width="100%" alt="Lowpoly_Street"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/naa0pr80msvg1.png" target="_blank"><img src="./thumbs/naa0pr80msvg1.webp" loading="lazy" width="100%" alt="naa0pr80msvg1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/newsprint-peek.png" target="_blank"><img src="./thumbs/newsprint-peek.webp" loading="lazy" width="100%" alt="newsprint-peek"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/pttwus9ouzpg1.png" target="_blank"><img src="./thumbs/pttwus9ouzpg1.webp" loading="lazy" width="100%" alt="pttwus9ouzpg1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/naa0pr80msvg1.webp" target="_blank"><img src="./thumbs/naa0pr80msvg1.webp" loading="lazy" width="100%" alt="naa0pr80msvg1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/newsprint-peek.webp" target="_blank"><img src="./thumbs/newsprint-peek.webp" loading="lazy" width="100%" alt="newsprint-peek"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/pttwus9ouzpg1.webp" target="_blank"><img src="./thumbs/pttwus9ouzpg1.webp" loading="lazy" width="100%" alt="pttwus9ouzpg1"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/q2u24ei1qxlg1.jpeg" target="_blank"><img src="./thumbs/q2u24ei1qxlg1.webp" loading="lazy" width="100%" alt="q2u24ei1qxlg1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/qkreagwmmukg1.png" target="_blank"><img src="./thumbs/qkreagwmmukg1.webp" loading="lazy" width="100%" alt="qkreagwmmukg1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/qkreagwmmukg1.webp" target="_blank"><img src="./thumbs/qkreagwmmukg1.webp" loading="lazy" width="100%" alt="qkreagwmmukg1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/space-floating.jpg" target="_blank"><img src="./thumbs/space-floating.webp" loading="lazy" width="100%" alt="space-floating"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/space.png" target="_blank"><img src="./thumbs/space.webp" loading="lazy" width="100%" alt="space"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/spire-peak.png" target="_blank"><img src="./thumbs/spire-peak.webp" loading="lazy" width="100%" alt="spire-peak"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Street-1.png" target="_blank"><img src="./thumbs/Street-1.webp" loading="lazy" width="100%" alt="Street-1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/space.webp" target="_blank"><img src="./thumbs/space.webp" loading="lazy" width="100%" alt="space"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/spire-peak.webp" target="_blank"><img src="./thumbs/spire-peak.webp" loading="lazy" width="100%" alt="spire-peak"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Street-1.webp" target="_blank"><img src="./thumbs/Street-1.webp" loading="lazy" width="100%" alt="Street-1"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Street-2.png" target="_blank"><img src="./thumbs/Street-2.webp" loading="lazy" width="100%" alt="Street-2"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Study-table.png" target="_blank"><img src="./thumbs/Study-table.webp" loading="lazy" width="100%" alt="Study-table"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Street-2.webp" target="_blank"><img src="./thumbs/Street-2.webp" loading="lazy" width="100%" alt="Street-2"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Study-table.webp" target="_blank"><img src="./thumbs/Study-table.webp" loading="lazy" width="100%" alt="Study-table"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/sushi.jpg" target="_blank"><img src="./thumbs/sushi.webp" loading="lazy" width="100%" alt="sushi"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/train.png" target="_blank"><img src="./thumbs/train.webp" loading="lazy" width="100%" alt="train"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/vixem0i4zbog1.png" target="_blank"><img src="./thumbs/vixem0i4zbog1.webp" loading="lazy" width="100%" alt="vixem0i4zbog1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/train.webp" target="_blank"><img src="./thumbs/train.webp" loading="lazy" width="100%" alt="train"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/vixem0i4zbog1.webp" target="_blank"><img src="./thumbs/vixem0i4zbog1.webp" loading="lazy" width="100%" alt="vixem0i4zbog1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhalla-75.jpg" target="_blank"><img src="./thumbs/wallhalla-75.webp" loading="lazy" width="100%" alt="wallhalla-75"></a></td>
   </tr>
   <tr>
@@ -241,19 +241,19 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-1q89e3.jpg" target="_blank"><img src="./thumbs/wallhaven-1q89e3.webp" loading="lazy" width="100%" alt="wallhaven-1q89e3"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-1qq9y1.png" target="_blank"><img src="./thumbs/wallhaven-1qq9y1.webp" loading="lazy" width="100%" alt="wallhaven-1qq9y1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-1qq9y1.webp" target="_blank"><img src="./thumbs/wallhaven-1qq9y1.webp" loading="lazy" width="100%" alt="wallhaven-1qq9y1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-21ko5m.jpg" target="_blank"><img src="./thumbs/wallhaven-21ko5m.webp" loading="lazy" width="100%" alt="wallhaven-21ko5m"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y3jzx.png" target="_blank"><img src="./thumbs/wallhaven-2y3jzx.webp" loading="lazy" width="100%" alt="wallhaven-2y3jzx"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y3jzx.webp" target="_blank"><img src="./thumbs/wallhaven-2y3jzx.webp" loading="lazy" width="100%" alt="wallhaven-2y3jzx"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y625y.png" target="_blank"><img src="./thumbs/wallhaven-2y625y.webp" loading="lazy" width="100%" alt="wallhaven-2y625y"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3l72e3.png" target="_blank"><img src="./thumbs/wallhaven-3l72e3.webp" loading="lazy" width="100%" alt="wallhaven-3l72e3"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q9qky.png" target="_blank"><img src="./thumbs/wallhaven-3q9qky.webp" loading="lazy" width="100%" alt="wallhaven-3q9qky"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y625y.webp" target="_blank"><img src="./thumbs/wallhaven-2y625y.webp" loading="lazy" width="100%" alt="wallhaven-2y625y"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3l72e3.webp" target="_blank"><img src="./thumbs/wallhaven-3l72e3.webp" loading="lazy" width="100%" alt="wallhaven-3l72e3"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q9qky.webp" target="_blank"><img src="./thumbs/wallhaven-3q9qky.webp" loading="lazy" width="100%" alt="wallhaven-3q9qky"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3qzvr6.png" target="_blank"><img src="./thumbs/wallhaven-3qzvr6.webp" loading="lazy" width="100%" alt="wallhaven-3qzvr6"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3qzvr6.webp" target="_blank"><img src="./thumbs/wallhaven-3qzvr6.webp" loading="lazy" width="100%" alt="wallhaven-3qzvr6"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5g9z53.jpg" target="_blank"><img src="./thumbs/wallhaven-5g9z53.webp" loading="lazy" width="100%" alt="wallhaven-5g9z53"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5yy2o8.png" target="_blank"><img src="./thumbs/wallhaven-5yy2o8.webp" loading="lazy" width="100%" alt="wallhaven-5yy2o8"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-5yy2o8.webp" target="_blank"><img src="./thumbs/wallhaven-5yy2o8.webp" loading="lazy" width="100%" alt="wallhaven-5yy2o8"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7j6k53.jpg" target="_blank"><img src="./thumbs/wallhaven-7j6k53.webp" loading="lazy" width="100%" alt="wallhaven-7j6k53"></a></td>
@@ -261,108 +261,108 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jg7rv.jpg" target="_blank"><img src="./thumbs/wallhaven-7jg7rv.webp" loading="lazy" width="100%" alt="wallhaven-7jg7rv"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jxj1o.png" target="_blank"><img src="./thumbs/wallhaven-7jxj1o.webp" loading="lazy" width="100%" alt="wallhaven-7jxj1o"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7pdl1v.png" target="_blank"><img src="./thumbs/wallhaven-7pdl1v.webp" loading="lazy" width="100%" alt="wallhaven-7pdl1v"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7jxj1o.webp" target="_blank"><img src="./thumbs/wallhaven-7jxj1o.webp" loading="lazy" width="100%" alt="wallhaven-7jxj1o"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7pdl1v.webp" target="_blank"><img src="./thumbs/wallhaven-7pdl1v.webp" loading="lazy" width="100%" alt="wallhaven-7pdl1v"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7pdvmv.jpg" target="_blank"><img src="./thumbs/wallhaven-7pdvmv.webp" loading="lazy" width="100%" alt="wallhaven-7pdvmv"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-7pzqje.jpg" target="_blank"><img src="./thumbs/wallhaven-7pzqje.webp" loading="lazy" width="100%" alt="wallhaven-7pzqje"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8gegkj.png" target="_blank"><img src="./thumbs/wallhaven-8gegkj.webp" loading="lazy" width="100%" alt="wallhaven-8gegkj"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8gegkj.webp" target="_blank"><img src="./thumbs/wallhaven-8gegkj.webp" loading="lazy" width="100%" alt="wallhaven-8gegkj"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8ggqqj.jpg" target="_blank"><img src="./thumbs/wallhaven-8ggqqj.webp" loading="lazy" width="100%" alt="wallhaven-8ggqqj"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8ggwz.jpg" target="_blank"><img src="./thumbs/wallhaven-8ggwz.webp" loading="lazy" width="100%" alt="wallhaven-8ggwz"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8gkq8o.png" target="_blank"><img src="./thumbs/wallhaven-8gkq8o.webp" loading="lazy" width="100%" alt="wallhaven-8gkq8o"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-96mlzd.png" target="_blank"><img src="./thumbs/wallhaven-96mlzd.webp" loading="lazy" width="100%" alt="wallhaven-96mlzd"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8gkq8o.webp" target="_blank"><img src="./thumbs/wallhaven-8gkq8o.webp" loading="lazy" width="100%" alt="wallhaven-8gkq8o"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-96mlzd.webp" target="_blank"><img src="./thumbs/wallhaven-96mlzd.webp" loading="lazy" width="100%" alt="wallhaven-96mlzd"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkgyx.png" target="_blank"><img src="./thumbs/wallhaven-9dkgyx.webp" loading="lazy" width="100%" alt="wallhaven-9dkgyx"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkywx.png" target="_blank"><img src="./thumbs/wallhaven-9dkywx.webp" loading="lazy" width="100%" alt="wallhaven-9dkywx"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkgyx.webp" target="_blank"><img src="./thumbs/wallhaven-9dkgyx.webp" loading="lazy" width="100%" alt="wallhaven-9dkgyx"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkywx.webp" target="_blank"><img src="./thumbs/wallhaven-9dkywx.webp" loading="lazy" width="100%" alt="wallhaven-9dkywx"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9o8wv1.jpg" target="_blank"><img src="./thumbs/wallhaven-9o8wv1.webp" loading="lazy" width="100%" alt="wallhaven-9o8wv1"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9oojp8.png" target="_blank"><img src="./thumbs/wallhaven-9oojp8.webp" loading="lazy" width="100%" alt="wallhaven-9oojp8"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9oojp8.webp" target="_blank"><img src="./thumbs/wallhaven-9oojp8.webp" loading="lazy" width="100%" alt="wallhaven-9oojp8"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d616vj.jpg" target="_blank"><img src="./thumbs/wallhaven-d616vj.webp" loading="lazy" width="100%" alt="wallhaven-d616vj"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d6l58m.jpg" target="_blank"><img src="./thumbs/wallhaven-d6l58m.webp" loading="lazy" width="100%" alt="wallhaven-d6l58m"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d883yg.png" target="_blank"><img src="./thumbs/wallhaven-d883yg.webp" loading="lazy" width="100%" alt="wallhaven-d883yg"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e88pqw.png" target="_blank"><img src="./thumbs/wallhaven-e88pqw.webp" loading="lazy" width="100%" alt="wallhaven-e88pqw"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-d883yg.webp" target="_blank"><img src="./thumbs/wallhaven-d883yg.webp" loading="lazy" width="100%" alt="wallhaven-d883yg"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e88pqw.webp" target="_blank"><img src="./thumbs/wallhaven-e88pqw.webp" loading="lazy" width="100%" alt="wallhaven-e88pqw"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-e8oqkw.jpg" target="_blank"><img src="./thumbs/wallhaven-e8oqkw.webp" loading="lazy" width="100%" alt="wallhaven-e8oqkw"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gp3oll.png" target="_blank"><img src="./thumbs/wallhaven-gp3oll.webp" loading="lazy" width="100%" alt="wallhaven-gp3oll"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpm837.png" target="_blank"><img src="./thumbs/wallhaven-gpm837.webp" loading="lazy" width="100%" alt="wallhaven-gpm837"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gp3oll.webp" target="_blank"><img src="./thumbs/wallhaven-gp3oll.webp" loading="lazy" width="100%" alt="wallhaven-gp3oll"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpm837.webp" target="_blank"><img src="./thumbs/wallhaven-gpm837.webp" loading="lazy" width="100%" alt="wallhaven-gpm837"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpo8p3.jpg" target="_blank"><img src="./thumbs/wallhaven-gpo8p3.webp" loading="lazy" width="100%" alt="wallhaven-gpo8p3"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpqmkd.png" target="_blank"><img src="./thumbs/wallhaven-gpqmkd.webp" loading="lazy" width="100%" alt="wallhaven-gpqmkd"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpy893.png" target="_blank"><img src="./thumbs/wallhaven-gpy893.webp" loading="lazy" width="100%" alt="wallhaven-gpy893"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw5gjd.png" target="_blank"><img src="./thumbs/wallhaven-gw5gjd.webp" loading="lazy" width="100%" alt="wallhaven-gw5gjd"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpqmkd.webp" target="_blank"><img src="./thumbs/wallhaven-gpqmkd.webp" loading="lazy" width="100%" alt="wallhaven-gpqmkd"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpy893.webp" target="_blank"><img src="./thumbs/wallhaven-gpy893.webp" loading="lazy" width="100%" alt="wallhaven-gpy893"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw5gjd.webp" target="_blank"><img src="./thumbs/wallhaven-gw5gjd.webp" loading="lazy" width="100%" alt="wallhaven-gw5gjd"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw5wyl.png" target="_blank"><img src="./thumbs/wallhaven-gw5wyl.webp" loading="lazy" width="100%" alt="wallhaven-gw5wyl"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k875o6.png" target="_blank"><img src="./thumbs/wallhaven-k875o6.webp" loading="lazy" width="100%" alt="wallhaven-k875o6"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k88p51.png" target="_blank"><img src="./thumbs/wallhaven-k88p51.webp" loading="lazy" width="100%" alt="wallhaven-k88p51"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw5wyl.webp" target="_blank"><img src="./thumbs/wallhaven-gw5wyl.webp" loading="lazy" width="100%" alt="wallhaven-gw5wyl"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k875o6.webp" target="_blank"><img src="./thumbs/wallhaven-k875o6.webp" loading="lazy" width="100%" alt="wallhaven-k875o6"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-k88p51.webp" target="_blank"><img src="./thumbs/wallhaven-k88p51.webp" loading="lazy" width="100%" alt="wallhaven-k88p51"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxo68q.jpg" target="_blank"><img src="./thumbs/wallhaven-kxo68q.webp" loading="lazy" width="100%" alt="wallhaven-kxo68q"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxqv8q.png" target="_blank"><img src="./thumbs/wallhaven-kxqv8q.webp" loading="lazy" width="100%" alt="wallhaven-kxqv8q"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxyj5d.png" target="_blank"><img src="./thumbs/wallhaven-kxyj5d.webp" loading="lazy" width="100%" alt="wallhaven-kxyj5d"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxqv8q.webp" target="_blank"><img src="./thumbs/wallhaven-kxqv8q.webp" loading="lazy" width="100%" alt="wallhaven-kxqv8q"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxyj5d.webp" target="_blank"><img src="./thumbs/wallhaven-kxyj5d.webp" loading="lazy" width="100%" alt="wallhaven-kxyj5d"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l88qwy.png" target="_blank"><img src="./thumbs/wallhaven-l88qwy.webp" loading="lazy" width="100%" alt="wallhaven-l88qwy"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l88qwy.webp" target="_blank"><img src="./thumbs/wallhaven-l88qwy.webp" loading="lazy" width="100%" alt="wallhaven-l88qwy"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l8exrr.jpg" target="_blank"><img src="./thumbs/wallhaven-l8exrr.webp" loading="lazy" width="100%" alt="wallhaven-l8exrr"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-lyz9xp.jpg" target="_blank"><img src="./thumbs/wallhaven-lyz9xp.webp" loading="lazy" width="100%" alt="wallhaven-lyz9xp"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-m3kggk.png" target="_blank"><img src="./thumbs/wallhaven-m3kggk.webp" loading="lazy" width="100%" alt="wallhaven-m3kggk"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-m3kggk.webp" target="_blank"><img src="./thumbs/wallhaven-m3kggk.webp" loading="lazy" width="100%" alt="wallhaven-m3kggk"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5ozx9.jpg" target="_blank"><img src="./thumbs/wallhaven-o5ozx9.webp" loading="lazy" width="100%" alt="wallhaven-o5ozx9"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pdel.png" target="_blank"><img src="./thumbs/wallhaven-o5pdel.webp" loading="lazy" width="100%" alt="wallhaven-o5pdel"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pdel.webp" target="_blank"><img src="./thumbs/wallhaven-o5pdel.webp" loading="lazy" width="100%" alt="wallhaven-o5pdel"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pegl.jpg" target="_blank"><img src="./thumbs/wallhaven-o5pegl.webp" loading="lazy" width="100%" alt="wallhaven-o5pegl"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5w7x9.png" target="_blank"><img src="./thumbs/wallhaven-o5w7x9.webp" loading="lazy" width="100%" alt="wallhaven-o5w7x9"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5w7x9.webp" target="_blank"><img src="./thumbs/wallhaven-o5w7x9.webp" loading="lazy" width="100%" alt="wallhaven-o5w7x9"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-og1775.jpg" target="_blank"><img src="./thumbs/wallhaven-og1775.webp" loading="lazy" width="100%" alt="wallhaven-og1775"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-ogd2e5.png" target="_blank"><img src="./thumbs/wallhaven-ogd2e5.webp" loading="lazy" width="100%" alt="wallhaven-ogd2e5"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-ogdzd5.png" target="_blank"><img src="./thumbs/wallhaven-ogdzd5.webp" loading="lazy" width="100%" alt="wallhaven-ogdzd5"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-ogd2e5.webp" target="_blank"><img src="./thumbs/wallhaven-ogd2e5.webp" loading="lazy" width="100%" alt="wallhaven-ogd2e5"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-ogdzd5.webp" target="_blank"><img src="./thumbs/wallhaven-ogdzd5.webp" loading="lazy" width="100%" alt="wallhaven-ogdzd5"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p91rgj.jpg" target="_blank"><img src="./thumbs/wallhaven-p91rgj.webp" loading="lazy" width="100%" alt="wallhaven-p91rgj"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p9e8y9.png" target="_blank"><img src="./thumbs/wallhaven-p9e8y9.webp" loading="lazy" width="100%" alt="wallhaven-p9e8y9"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-polymm.png" target="_blank"><img src="./thumbs/wallhaven-polymm.webp" loading="lazy" width="100%" alt="wallhaven-polymm"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgvll.png" target="_blank"><img src="./thumbs/wallhaven-qrgvll.webp" loading="lazy" width="100%" alt="wallhaven-qrgvll"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p9e8y9.webp" target="_blank"><img src="./thumbs/wallhaven-p9e8y9.webp" loading="lazy" width="100%" alt="wallhaven-p9e8y9"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-polymm.webp" target="_blank"><img src="./thumbs/wallhaven-polymm.webp" loading="lazy" width="100%" alt="wallhaven-polymm"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgvll.webp" target="_blank"><img src="./thumbs/wallhaven-qrgvll.webp" loading="lazy" width="100%" alt="wallhaven-qrgvll"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-rqox9m.png" target="_blank"><img src="./thumbs/wallhaven-rqox9m.webp" loading="lazy" width="100%" alt="wallhaven-rqox9m"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-rqox9m.webp" target="_blank"><img src="./thumbs/wallhaven-rqox9m.webp" loading="lazy" width="100%" alt="wallhaven-rqox9m"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-rqqdlq.jpg" target="_blank"><img src="./thumbs/wallhaven-rqqdlq.webp" loading="lazy" width="100%" alt="wallhaven-rqqdlq"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-rrme1w.png" target="_blank"><img src="./thumbs/wallhaven-rrme1w.webp" loading="lazy" width="100%" alt="wallhaven-rrme1w"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-rrme1w.webp" target="_blank"><img src="./thumbs/wallhaven-rrme1w.webp" loading="lazy" width="100%" alt="wallhaven-rrme1w"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vpzjo5.jpg" target="_blank"><img src="./thumbs/wallhaven-vpzjo5.webp" loading="lazy" width="100%" alt="wallhaven-vpzjo5"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vq2erp.png" target="_blank"><img src="./thumbs/wallhaven-vq2erp.webp" loading="lazy" width="100%" alt="wallhaven-vq2erp"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vqp5e8.png" target="_blank"><img src="./thumbs/wallhaven-vqp5e8.webp" loading="lazy" width="100%" alt="wallhaven-vqp5e8"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vq2erp.webp" target="_blank"><img src="./thumbs/wallhaven-vq2erp.webp" loading="lazy" width="100%" alt="wallhaven-vq2erp"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vqp5e8.webp" target="_blank"><img src="./thumbs/wallhaven-vqp5e8.webp" loading="lazy" width="100%" alt="wallhaven-vqp5e8"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w51qe7.png" target="_blank"><img src="./thumbs/wallhaven-w51qe7.webp" loading="lazy" width="100%" alt="wallhaven-w51qe7"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w51qe7.webp" target="_blank"><img src="./thumbs/wallhaven-w51qe7.webp" loading="lazy" width="100%" alt="wallhaven-w51qe7"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we2826.jpg" target="_blank"><img src="./thumbs/wallhaven-we2826.webp" loading="lazy" width="100%" alt="wallhaven-we2826"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we98vp.png" target="_blank"><img src="./thumbs/wallhaven-we98vp.webp" loading="lazy" width="100%" alt="wallhaven-we98vp"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we98vp.webp" target="_blank"><img src="./thumbs/wallhaven-we98vp.webp" loading="lazy" width="100%" alt="wallhaven-we98vp"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-x6pd8z.jpg" target="_blank"><img src="./thumbs/wallhaven-x6pd8z.webp" loading="lazy" width="100%" alt="wallhaven-x6pd8z"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-xe515l.jpg" target="_blank"><img src="./thumbs/wallhaven-xe515l.webp" loading="lazy" width="100%" alt="wallhaven-xe515l"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-xek5md.png" target="_blank"><img src="./thumbs/wallhaven-xek5md.webp" loading="lazy" width="100%" alt="wallhaven-xek5md"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-xek5md.webp" target="_blank"><img src="./thumbs/wallhaven-xek5md.webp" loading="lazy" width="100%" alt="wallhaven-xek5md"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yqev5d.jpg" target="_blank"><img src="./thumbs/wallhaven-yqev5d.webp" loading="lazy" width="100%" alt="wallhaven-yqev5d"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yqmqk7.png" target="_blank"><img src="./thumbs/wallhaven-yqmqk7.webp" loading="lazy" width="100%" alt="wallhaven-yqmqk7"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yqqyol.png" target="_blank"><img src="./thumbs/wallhaven-yqqyol.webp" loading="lazy" width="100%" alt="wallhaven-yqqyol"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yqmqk7.webp" target="_blank"><img src="./thumbs/wallhaven-yqmqk7.webp" loading="lazy" width="100%" alt="wallhaven-yqmqk7"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-yqqyol.webp" target="_blank"><img src="./thumbs/wallhaven-yqqyol.webp" loading="lazy" width="100%" alt="wallhaven-yqqyol"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-zpp6zg.jpg" target="_blank"><img src="./thumbs/wallhaven-zpp6zg.webp" loading="lazy" width="100%" alt="wallhaven-zpp6zg"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallpaper1.png" target="_blank"><img src="./thumbs/wallpaper1.webp" loading="lazy" width="100%" alt="wallpaper1"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallpaper1.webp" target="_blank"><img src="./thumbs/wallpaper1.webp" loading="lazy" width="100%" alt="wallpaper1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Wet-Road.jpg" target="_blank"><img src="./thumbs/Wet-Road.webp" loading="lazy" width="100%" alt="Wet-Road"></a></td>
   </tr>
 </table>
