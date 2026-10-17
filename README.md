@@ -4,6 +4,8 @@ A curated collection of wallpapers converted to the **Catppuccin Mocha** color p
 
 Most of the wallpapers here are lightly retouched, above all to bring them to a standard 4K resolution (3840×2160), so they look sharp on any screen. Once in a while I also add small details that I draw myself.
 
+Wallpapers are stored as WebP instead of PNG. To the eye nothing changes, but the files are about seven times smaller, which keeps the repository quick to clone. The JPEGs I left alone, because they were already light.
+
 > 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)** ↓
 
 ## 🌌 Why Mocha?
@@ -11,7 +13,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 ### 🖼️ Wallpapers Gallery (Mocha)
 
-**207 wallpapers.** The most recent additions come first — the newest are the first rows, so returning visitors spot them right away. Every thumbnail is 640×360 and links to the full-resolution image.
+**207 wallpapers.** The most recent additions come first, so the newest ones are the first rows and returning visitors spot them right away. Every thumbnail is 640×360 and links to the full-resolution image.
 
 <table>
   <tr>
