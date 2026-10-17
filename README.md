@@ -15,13 +15,13 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
 
 <table>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-street-night-moody-look-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/anime-girl-street-night-moody-look-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="anime-girl-street-night-moody-look-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-street-night-moody-look-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/anime-girl-street-night-moody-look-desktop-wallpaper.webp" loading="lazy" width="100%" alt="anime-girl-street-night-moody-look-desktop-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/atmosphere-plant-natural_landscape-twig.png" target="_blank"><img src="./thumbs/atmosphere-plant-natural_landscape-twig.webp" loading="lazy" width="100%" alt="atmosphere-plant-natural_landscape-twig"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/genshin_impact-dehya-dunyarzad-hoyolab.png" target="_blank"><img src="./thumbs/genshin_impact-dehya-dunyarzad-hoyolab.webp" loading="lazy" width="100%" alt="genshin_impact-dehya-dunyarzad-hoyolab"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/girl-on-the-bad.png" target="_blank"><img src="./thumbs/girl-on-the-bad.webp" loading="lazy" width="100%" alt="girl-on-the-bad"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160.jpg" target="_blank"><img src="./thumbs/img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160.webp" loading="lazy" width="100%" alt="img1.wallspic.com-windjammer-ship-sailing_ship-3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/img1.wallspic.com-windjammer-ship-sailing_ship.jpg" target="_blank"><img src="./thumbs/img1.wallspic.com-windjammer-ship-sailing_ship.webp" loading="lazy" width="100%" alt="img1.wallspic.com-windjammer-ship-sailing_ship"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/outer_space-universe-astronomical_object-pink-purple.jpg" target="_blank"><img src="./thumbs/outer_space-universe-astronomical_object-pink-purple.webp" loading="lazy" width="100%" alt="outer_space-universe-astronomical_object-pink-purple"></a></td>
   </tr>
   <tr>
@@ -85,8 +85,8 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/dl882-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/dl882-wallpaper.cam.webp" loading="lazy" width="100%" alt="dl882-wallpaper.cam"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper-4k"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper.webp" loading="lazy" width="100%" alt="enchanted-forest-mushroom-deer-pastel-dreamy-desktop-wallpaper"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper.webp" loading="lazy" width="100%" alt="eren-yeager-biting-hand-attack-on-titan-desktop-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ew630-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/ew630-wallpaper.cam.webp" loading="lazy" width="100%" alt="ew630-wallpaper.cam"></a></td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fc158-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fc158-wallpaper.cam.webp" loading="lazy" width="100%" alt="fc158-wallpaper.cam"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fk840-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fk840-wallpaper.cam.webp" loading="lazy" width="100%" alt="fk840-wallpaper.cam"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fox-mask-girl-anime-noir-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/fox-mask-girl-anime-noir-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="fox-mask-girl-anime-noir-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fox-mask-girl-anime-noir-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/fox-mask-girl-anime-noir-desktop-wallpaper.webp" loading="lazy" width="100%" alt="fox-mask-girl-anime-noir-desktop-wallpaper"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/gf762-wallpaper.jpg" target="_blank"><img src="./thumbs/gf762-wallpaper.webp" loading="lazy" width="100%" alt="gf762-wallpaper"></a></td>
@@ -112,11 +112,11 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/jv145-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/jv145-wallpaper.cam.webp" loading="lazy" width="100%" alt="jv145-wallpaper.cam"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kasane-teto-cozy-pink-anime-girl-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/kasane-teto-cozy-pink-anime-girl-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="kasane-teto-cozy-pink-anime-girl-desktop-wallpaper-4k"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kasane-teto-pink-anime-portrait-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/kasane-teto-pink-anime-portrait-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="kasane-teto-pink-anime-portrait-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kasane-teto-cozy-pink-anime-girl-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/kasane-teto-cozy-pink-anime-girl-desktop-wallpaper.webp" loading="lazy" width="100%" alt="kasane-teto-cozy-pink-anime-girl-desktop-wallpaper"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kasane-teto-pink-anime-portrait-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/kasane-teto-pink-anime-portrait-desktop-wallpaper.webp" loading="lazy" width="100%" alt="kasane-teto-pink-anime-portrait-desktop-wallpaper"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper.webp" loading="lazy" width="100%" alt="kawaii-girl-hello-kitty-christmas-bedroom-desktop-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/li200-wallpaper.jpg" target="_blank"><img src="./thumbs/li200-wallpaper.webp" loading="lazy" width="100%" alt="li200-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/oc191-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/oc191-wallpaper.cam.webp" loading="lazy" width="100%" alt="oc191-wallpaper.cam"></a></td>
   </tr>
@@ -127,12 +127,12 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/pl663-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/pl663-wallpaper.cam.webp" loading="lazy" width="100%" alt="pl663-wallpaper.cam"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/power-chainsaw-man-neon-chaos-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/power-chainsaw-man-neon-chaos-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="power-chainsaw-man-neon-chaos-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/power-chainsaw-man-neon-chaos-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/power-chainsaw-man-neon-chaos-desktop-wallpaper.webp" loading="lazy" width="100%" alt="power-chainsaw-man-neon-chaos-desktop-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/qb332-wallpaper.jpg" target="_blank"><img src="./thumbs/qb332-wallpaper.webp" loading="lazy" width="100%" alt="qb332-wallpaper"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper-4k"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper-4k.jpg" target="_blank"><img src="./thumbs/totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper-4k.webp" loading="lazy" width="100%" alt="totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper-4k"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper.webp" loading="lazy" width="100%" alt="starry-sky-sad-anime-girl-aesthetic-night-desktop-wallpaper"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper.jpg" target="_blank"><img src="./thumbs/totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper.webp" loading="lazy" width="100%" alt="totoro-flower-crown-night-forest-aesthetic-desktop-wallpaper"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/tx409-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/tx409-wallpaper.cam.webp" loading="lazy" width="100%" alt="tx409-wallpaper.cam"></a></td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/2xl.jpg" target="_blank"><img src="./thumbs/2xl.webp" loading="lazy" width="100%" alt="2xl"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/4k-astronaut.jpg" target="_blank"><img src="./thumbs/4k-astronaut.webp" loading="lazy" width="100%" alt="4k-astronaut"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/alpine-twilight-2560x1440.png" target="_blank"><img src="./thumbs/alpine-twilight-2560x1440.webp" loading="lazy" width="100%" alt="alpine-twilight-2560x1440"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/alpine-twilight.png" target="_blank"><img src="./thumbs/alpine-twilight.webp" loading="lazy" width="100%" alt="alpine-twilight"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/anime-girl-blue-hair.jpg" target="_blank"><img src="./thumbs/anime-girl-blue-hair.webp" loading="lazy" width="100%" alt="anime-girl-blue-hair"></a></td>
@@ -188,20 +188,20 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/cflktkjnv9ig1.jpeg" target="_blank"><img src="./thumbs/cflktkjnv9ig1.webp" loading="lazy" width="100%" alt="cflktkjnv9ig1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/christmas-cybr.png" target="_blank"><img src="./thumbs/christmas-cybr.webp" loading="lazy" width="100%" alt="christmas-cybr"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/crimson-feathers-2560x1440.png" target="_blank"><img src="./thumbs/crimson-feathers-2560x1440.webp" loading="lazy" width="100%" alt="crimson-feathers-2560x1440"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/crimson-feathers.png" target="_blank"><img src="./thumbs/crimson-feathers.webp" loading="lazy" width="100%" alt="crimson-feathers"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ember-eyes-3840x2160.png" target="_blank"><img src="./thumbs/ember-eyes-3840x2160.webp" loading="lazy" width="100%" alt="ember-eyes-3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ember-eyes.png" target="_blank"><img src="./thumbs/ember-eyes.webp" loading="lazy" width="100%" alt="ember-eyes"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/fz570-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/fz570-wallpaper.cam.webp" loading="lazy" width="100%" alt="fz570-wallpaper.cam"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/gd5351no3g6e1.jpeg" target="_blank"><img src="./thumbs/gd5351no3g6e1.webp" loading="lazy" width="100%" alt="gd5351no3g6e1"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/heart_original.png" target="_blank"><img src="./thumbs/heart_original.webp" loading="lazy" width="100%" alt="heart_original"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/in335-wallpaper.cam.jpg" target="_blank"><img src="./thumbs/in335-wallpaper.cam.webp" loading="lazy" width="100%" alt="in335-wallpaper.cam"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-cat-3840x2160.png" target="_blank"><img src="./thumbs/ink-splash-cat-3840x2160.webp" loading="lazy" width="100%" alt="ink-splash-cat-3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-cat.png" target="_blank"><img src="./thumbs/ink-splash-cat.webp" loading="lazy" width="100%" alt="ink-splash-cat"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-feline-3840x2160.png" target="_blank"><img src="./thumbs/ink-splash-feline-3840x2160.webp" loading="lazy" width="100%" alt="ink-splash-feline-3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/ink-splash-feline.png" target="_blank"><img src="./thumbs/ink-splash-feline.webp" loading="lazy" width="100%" alt="ink-splash-feline"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/jupiter.png" target="_blank"><img src="./thumbs/jupiter.webp" loading="lazy" width="100%" alt="jupiter"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/kitty-catppuccin.png" target="_blank"><img src="./thumbs/kitty-catppuccin.webp" loading="lazy" width="100%" alt="kitty-catppuccin"></a></td>
   </tr>
@@ -212,7 +212,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/naa0pr80msvg1.png" target="_blank"><img src="./thumbs/naa0pr80msvg1.webp" loading="lazy" width="100%" alt="naa0pr80msvg1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/newsprint-peek-5120x2880.png" target="_blank"><img src="./thumbs/newsprint-peek-5120x2880.webp" loading="lazy" width="100%" alt="newsprint-peek-5120x2880"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/newsprint-peek.png" target="_blank"><img src="./thumbs/newsprint-peek.webp" loading="lazy" width="100%" alt="newsprint-peek"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/pttwus9ouzpg1.png" target="_blank"><img src="./thumbs/pttwus9ouzpg1.webp" loading="lazy" width="100%" alt="pttwus9ouzpg1"></a></td>
   </tr>
   <tr>
@@ -222,7 +222,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/space.png" target="_blank"><img src="./thumbs/space.webp" loading="lazy" width="100%" alt="space"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/spire-peak-2560x1440.png" target="_blank"><img src="./thumbs/spire-peak-2560x1440.webp" loading="lazy" width="100%" alt="spire-peak-2560x1440"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/spire-peak.png" target="_blank"><img src="./thumbs/spire-peak.webp" loading="lazy" width="100%" alt="spire-peak"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/Street-1.png" target="_blank"><img src="./thumbs/Street-1.webp" loading="lazy" width="100%" alt="Street-1"></a></td>
   </tr>
   <tr>
@@ -233,7 +233,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/train.png" target="_blank"><img src="./thumbs/train.webp" loading="lazy" width="100%" alt="train"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/vixem0i4zbog1.png" target="_blank"><img src="./thumbs/vixem0i4zbog1.webp" loading="lazy" width="100%" alt="vixem0i4zbog1"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhalla-75-2560x1440.jpg" target="_blank"><img src="./thumbs/wallhalla-75-2560x1440.webp" loading="lazy" width="100%" alt="wallhalla-75-2560x1440"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhalla-75.jpg" target="_blank"><img src="./thumbs/wallhalla-75.webp" loading="lazy" width="100%" alt="wallhalla-75"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-1p5l6g.jpg" target="_blank"><img src="./thumbs/wallhaven-1p5l6g.webp" loading="lazy" width="100%" alt="wallhaven-1p5l6g"></a></td>
@@ -243,11 +243,11 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-1qq9y1.png" target="_blank"><img src="./thumbs/wallhaven-1qq9y1.webp" loading="lazy" width="100%" alt="wallhaven-1qq9y1"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-21ko5m.jpg" target="_blank"><img src="./thumbs/wallhaven-21ko5m.webp" loading="lazy" width="100%" alt="wallhaven-21ko5m"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y3jzx_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-2y3jzx_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-2y3jzx_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y3jzx.png" target="_blank"><img src="./thumbs/wallhaven-2y3jzx.webp" loading="lazy" width="100%" alt="wallhaven-2y3jzx"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y625y_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-2y625y_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-2y625y_3840x2160"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3l72e3_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-3l72e3_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-3l72e3_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-2y625y.png" target="_blank"><img src="./thumbs/wallhaven-2y625y.webp" loading="lazy" width="100%" alt="wallhaven-2y625y"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3l72e3.png" target="_blank"><img src="./thumbs/wallhaven-3l72e3.webp" loading="lazy" width="100%" alt="wallhaven-3l72e3"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-3q9qky.png" target="_blank"><img src="./thumbs/wallhaven-3q9qky.webp" loading="lazy" width="100%" alt="wallhaven-3q9qky"></a></td>
   </tr>
   <tr>
@@ -273,11 +273,11 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8ggwz.jpg" target="_blank"><img src="./thumbs/wallhaven-8ggwz.webp" loading="lazy" width="100%" alt="wallhaven-8ggwz"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-8gkq8o.png" target="_blank"><img src="./thumbs/wallhaven-8gkq8o.webp" loading="lazy" width="100%" alt="wallhaven-8gkq8o"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-96mlzd_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-96mlzd_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-96mlzd_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-96mlzd.png" target="_blank"><img src="./thumbs/wallhaven-96mlzd.webp" loading="lazy" width="100%" alt="wallhaven-96mlzd"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkgyx_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-9dkgyx_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-9dkgyx_3840x2160"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkywx_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-9dkywx_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-9dkywx_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkgyx.png" target="_blank"><img src="./thumbs/wallhaven-9dkgyx.webp" loading="lazy" width="100%" alt="wallhaven-9dkgyx"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9dkywx.png" target="_blank"><img src="./thumbs/wallhaven-9dkywx.webp" loading="lazy" width="100%" alt="wallhaven-9dkywx"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-9o8wv1.jpg" target="_blank"><img src="./thumbs/wallhaven-9o8wv1.webp" loading="lazy" width="100%" alt="wallhaven-9o8wv1"></a></td>
   </tr>
   <tr>
@@ -292,12 +292,12 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gp3oll.png" target="_blank"><img src="./thumbs/wallhaven-gp3oll.webp" loading="lazy" width="100%" alt="wallhaven-gp3oll"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpm837_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-gpm837_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-gpm837_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpm837.png" target="_blank"><img src="./thumbs/wallhaven-gpm837.webp" loading="lazy" width="100%" alt="wallhaven-gpm837"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpo8p3.jpg" target="_blank"><img src="./thumbs/wallhaven-gpo8p3.webp" loading="lazy" width="100%" alt="wallhaven-gpo8p3"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpqmkd_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-gpqmkd_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-gpqmkd_3840x2160"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpy893_5824x3264.png" target="_blank"><img src="./thumbs/wallhaven-gpy893_5824x3264.webp" loading="lazy" width="100%" alt="wallhaven-gpy893_5824x3264"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpqmkd.png" target="_blank"><img src="./thumbs/wallhaven-gpqmkd.webp" loading="lazy" width="100%" alt="wallhaven-gpqmkd"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gpy893.png" target="_blank"><img src="./thumbs/wallhaven-gpy893.webp" loading="lazy" width="100%" alt="wallhaven-gpy893"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-gw5gjd.png" target="_blank"><img src="./thumbs/wallhaven-gw5gjd.webp" loading="lazy" width="100%" alt="wallhaven-gw5gjd"></a></td>
   </tr>
   <tr>
@@ -307,22 +307,22 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxo68q.jpg" target="_blank"><img src="./thumbs/wallhaven-kxo68q.webp" loading="lazy" width="100%" alt="wallhaven-kxo68q"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxqv8q_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-kxqv8q_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-kxqv8q_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxqv8q.png" target="_blank"><img src="./thumbs/wallhaven-kxqv8q.webp" loading="lazy" width="100%" alt="wallhaven-kxqv8q"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-kxyj5d.png" target="_blank"><img src="./thumbs/wallhaven-kxyj5d.webp" loading="lazy" width="100%" alt="wallhaven-kxyj5d"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l88qwy_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-l88qwy_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-l88qwy_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l88qwy.png" target="_blank"><img src="./thumbs/wallhaven-l88qwy.webp" loading="lazy" width="100%" alt="wallhaven-l88qwy"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-l8exrr.jpg" target="_blank"><img src="./thumbs/wallhaven-l8exrr.webp" loading="lazy" width="100%" alt="wallhaven-l8exrr"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-lyz9xp.jpg" target="_blank"><img src="./thumbs/wallhaven-lyz9xp.webp" loading="lazy" width="100%" alt="wallhaven-lyz9xp"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-m3kggk_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-m3kggk_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-m3kggk_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-m3kggk.png" target="_blank"><img src="./thumbs/wallhaven-m3kggk.webp" loading="lazy" width="100%" alt="wallhaven-m3kggk"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5ozx9.jpg" target="_blank"><img src="./thumbs/wallhaven-o5ozx9.webp" loading="lazy" width="100%" alt="wallhaven-o5ozx9"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pdel_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-o5pdel_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-o5pdel_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pdel.png" target="_blank"><img src="./thumbs/wallhaven-o5pdel.webp" loading="lazy" width="100%" alt="wallhaven-o5pdel"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5pegl.jpg" target="_blank"><img src="./thumbs/wallhaven-o5pegl.webp" loading="lazy" width="100%" alt="wallhaven-o5pegl"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5w7x9_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-o5w7x9_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-o5w7x9_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-o5w7x9.png" target="_blank"><img src="./thumbs/wallhaven-o5w7x9.webp" loading="lazy" width="100%" alt="wallhaven-o5w7x9"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-og1775.jpg" target="_blank"><img src="./thumbs/wallhaven-og1775.webp" loading="lazy" width="100%" alt="wallhaven-og1775"></a></td>
   </tr>
   <tr>
@@ -331,7 +331,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p91rgj.jpg" target="_blank"><img src="./thumbs/wallhaven-p91rgj.webp" loading="lazy" width="100%" alt="wallhaven-p91rgj"></a></td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p9e8y9_5824x3264.png" target="_blank"><img src="./thumbs/wallhaven-p9e8y9_5824x3264.webp" loading="lazy" width="100%" alt="wallhaven-p9e8y9_5824x3264"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-p9e8y9.png" target="_blank"><img src="./thumbs/wallhaven-p9e8y9.webp" loading="lazy" width="100%" alt="wallhaven-p9e8y9"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-polymm.png" target="_blank"><img src="./thumbs/wallhaven-polymm.webp" loading="lazy" width="100%" alt="wallhaven-polymm"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-qrgvll.png" target="_blank"><img src="./thumbs/wallhaven-qrgvll.webp" loading="lazy" width="100%" alt="wallhaven-qrgvll"></a></td>
   </tr>
@@ -342,13 +342,13 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vpzjo5.jpg" target="_blank"><img src="./thumbs/wallhaven-vpzjo5.webp" loading="lazy" width="100%" alt="wallhaven-vpzjo5"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vq2erp_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-vq2erp_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-vq2erp_3840x2160"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vqp5e8_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-vqp5e8_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-vqp5e8_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vq2erp.png" target="_blank"><img src="./thumbs/wallhaven-vq2erp.webp" loading="lazy" width="100%" alt="wallhaven-vq2erp"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-vqp5e8.png" target="_blank"><img src="./thumbs/wallhaven-vqp5e8.webp" loading="lazy" width="100%" alt="wallhaven-vqp5e8"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-w51qe7.png" target="_blank"><img src="./thumbs/wallhaven-w51qe7.webp" loading="lazy" width="100%" alt="wallhaven-w51qe7"></a></td>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we2826.jpg" target="_blank"><img src="./thumbs/wallhaven-we2826.webp" loading="lazy" width="100%" alt="wallhaven-we2826"></a></td>
-    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we98vp_3840x2160.png" target="_blank"><img src="./thumbs/wallhaven-we98vp_3840x2160.webp" loading="lazy" width="100%" alt="wallhaven-we98vp_3840x2160"></a></td>
+    <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-we98vp.png" target="_blank"><img src="./thumbs/wallhaven-we98vp.webp" loading="lazy" width="100%" alt="wallhaven-we98vp"></a></td>
   </tr>
   <tr>
     <td width="33%"><a href="https://codeberg.org/imanubdesigner/wallppuccin/media/branch/main/wallpapers/wallhaven-x6pd8z.jpg" target="_blank"><img src="./thumbs/wallhaven-x6pd8z.webp" loading="lazy" width="100%" alt="wallhaven-x6pd8z"></a></td>
