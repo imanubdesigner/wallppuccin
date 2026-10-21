@@ -6,12 +6,13 @@ Most of the wallpapers here are lightly retouched, above all to bring them to a 
 
 Wallpapers are stored as WebP instead of PNG. To the eye nothing changes, but the files are about seven times smaller, which keeps the repository quick to clone. The JPEGs I left alone, because they were already light.
 
-> **Wallpapers & copyright** — The artwork in this repository is not my own. Most
-> images come from public wallpaper sites, mainly [wallhaven.cc](https://wallhaven.cc),
-> plus other sources found while browsing; they remain the property of their
-> original authors and no license is granted for them. If one of them is yours and
-> you'd rather it weren't here, [open an issue](../../issues) and I'll remove it
-> immediately.
+> **Disclaimer** — These wallpapers come from many different places on the
+> internet, mainly [wallhaven.cc](https://wallhaven.cc) and whatever else I find
+> while browsing. I didn't make them: I edited some, upscaled them to 4K and
+> recoloured them to Catppuccin Mocha. Credit for the artwork belongs entirely to
+> the original artists — I'm just the collector. If one of these is yours, either
+> tell me and I'll remove it, or tell me how you'd like to be credited and I'll add
+> it to this README: [open an issue](../../issues).
 
 > 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)** ↓
 
@@ -413,5 +414,6 @@ All images are processed to match the Catppuccin Mocha Palette hex codes:
 
 ## 🔗 Credits
 - Colors by [Catppuccin](https://github.com/catppuccin/catppuccin).
-- Original images mainly from [Wallhaven](https://wallhaven.cc), plus other sources I come across while browsing the web.
-- No license is granted for the images: they remain the property of their authors. Takedown requests: [open an issue](../../issues).
+- Original images from many sources, mainly [Wallhaven](https://wallhaven.cc) and other places found while browsing the web.
+- No license is granted for the images: they remain the property of their authors, and the edits here (upscale, recolour, WebP conversion) don't change that.
+- Takedown or credit requests: [open an issue](../../issues), and I'll remove the image or add the credit you ask for.
