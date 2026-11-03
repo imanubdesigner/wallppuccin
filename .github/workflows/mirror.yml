@@ -1,0 +1,213 @@
+name: mirror to codeberg
+
+# Codeberg is an exact mirror of GitHub, in two parts that share this file:
+#
+#   mirror   branches and tags, with deletions and force-pushes included.
+#            Every run starts from a fresh clone of GitHub, so the result
+#            never depends on which event fired it.
+#   release  the release (notes, prerelease flag, zip) of a tag. A release
+#            is not git data: it lives in the forge, and the in-app updater
+#            reads exactly that.
+#
+# Run it by hand (Actions tab, "Run workflow"): with no tag it only
+# mirrors git; with the tag of an existing GitHub release it copies that
+# release too.
+on:
+  push: # any branch, any tag, and commits made on the web
+  delete: # a branch or a tag removed on GitHub
+  release:
+    types: [published, edited, unpublished, deleted]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag of an existing GitHub release to copy as well (optional)"
+        required: false
+  schedule:
+    # Safety net: GitHub fires no push event when more than three tags are
+    # pushed at once. A daily run catches whatever an event missed.
+    - cron: "23 4 * * *"
+
+permissions:
+  contents: read
+
+env:
+  # the one place that names the Codeberg repository
+  CB_REPO: ${{ github.repository }}
+
+jobs:
+  mirror:
+    # a release event needs no git pass: the release job pushes its own tag
+    if: ${{ github.event_name != 'release' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # One mirror at a time. A queued run clones the latest state anyway, so
+    # a newer one replacing it loses nothing.
+    concurrency:
+      group: mirror-git
+      cancel-in-progress: false
+    env:
+      GH_TOKEN: ${{ github.token }}
+      CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+    steps:
+      - name: Mirror branches and tags to Codeberg
+        run: |
+          set -euo pipefail
+
+          if [ -z "${CODEBERG_TOKEN}" ]; then
+            echo "::error::The CODEBERG_TOKEN secret is missing"
+            exit 1
+          fi
+
+          # A bare clone carries exactly branches and tags: no refs/pull/*,
+          # which Codeberg keeps for itself.
+          git clone --bare \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            repo.git
+          cd repo.git
+
+          # A pruning push trusts its snapshot of GitHub: a ref created after
+          # the clone (the tag the release job has just pushed to Codeberg)
+          # would be deleted there. Refresh the snapshot right before the
+          # push, so the gap is milliseconds, not the seconds a clone takes.
+          git fetch --quiet --prune origin \
+            '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
+
+          # Never prune Codeberg down to nothing: a GitHub repository with no
+          # branch at all must stop this job, not empty the mirror.
+          if [ -z "$(git for-each-ref --count=1 refs/heads)" ]; then
+            echo "::error::GitHub has no branch: refusing to prune Codeberg"
+            exit 1
+          fi
+
+          # --prune removes on Codeberg the branches and tags that no longer
+          # exist on GitHub; --force follows rewritten history.
+          git push --prune --force \
+            "https://imanubdesigner:${CODEBERG_TOKEN}@codeberg.org/${CB_REPO}.git" \
+            'refs/heads/*:refs/heads/*' \
+            'refs/tags/*:refs/tags/*'
+
+  release:
+    if: ${{ github.event_name == 'release' || (github.event_name == 'workflow_dispatch' && inputs.tag != '') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # One group per tag, not one shared with the git mirror: GitHub keeps a
+    # single pending run per group and cancels an older one, which here
+    # would silently drop a release that is waiting behind a push.
+    concurrency:
+      group: mirror-release-${{ github.event.release.tag_name || inputs.tag }}
+      cancel-in-progress: false
+    env:
+      # values go in through env, never pasted into the script below: a
+      # release name or body is text anyone with write access can type
+      CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+      TAG: ${{ github.event.release.tag_name || inputs.tag }}
+      EVENT_ACTION: ${{ github.event.action }}
+      RELEASE_DRAFT: ${{ github.event.release.draft }}
+    steps:
+      - name: Copy the release to Codeberg
+        run: |
+          set -euo pipefail
+
+          if [ -z "${CODEBERG_TOKEN}" ]; then
+            echo "::error::The CODEBERG_TOKEN secret is missing"
+            exit 1
+          fi
+
+          gone=false
+          if [ "${EVENT_ACTION}" = "deleted" ] || [ "${EVENT_ACTION}" = "unpublished" ]; then
+            gone=true
+          fi
+
+          # a draft is not public: nothing to copy (and this read-only token
+          # could not read it anyway)
+          if [ "${RELEASE_DRAFT}" = "true" ] && [ "$gone" = "false" ]; then
+            echo "${TAG} is a draft: nothing to copy"
+            exit 0
+          fi
+
+          api="https://codeberg.org/api/v1/repos/${CB_REPO}"
+          auth="Authorization: token ${CODEBERG_TOKEN}"
+          json="Content-Type: application/json"
+
+          # the release on Codeberg for this tag, if there is one
+          code=$(curl -sS -o existing.json -w '%{http_code}' \
+            -H "$auth" "${api}/releases/tags/${TAG}")
+          case "$code" in
+            200) id=$(jq -r .id existing.json) ;;
+            404) id="" ;;
+            *) echo "::error::Codeberg answered HTTP ${code} for tag ${TAG}"
+               cat existing.json; exit 1 ;;
+          esac
+
+          # a release deleted on GitHub, or turned back into a draft, goes
+          # from Codeberg too (a deleted tag follows through the mirror job)
+          if [ "$gone" = "true" ]; then
+            if [ -n "$id" ]; then
+              curl -fsS -X DELETE -H "$auth" "${api}/releases/${id}"
+              echo "Deleted the Codeberg release for ${TAG}"
+            fi
+            exit 0
+          fi
+
+          # the tag has to be on Codeberg before the release that names
+          # it, and this job may start before the mirror job has pushed it
+          git clone --bare \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            repo.git
+          git -C repo.git push --force \
+            "https://imanubdesigner:${CODEBERG_TOKEN}@codeberg.org/${CB_REPO}.git" \
+            "refs/tags/${TAG}:refs/tags/${TAG}"
+
+          # the release as GitHub has it now
+          gh release view "${TAG}" --repo "${GITHUB_REPOSITORY}" \
+            --json tagName,name,body,isDraft,isPrerelease,assets > release.json
+          jq '{
+                tag_name: .tagName,
+                name: (if (.name // "") == "" then .tagName else .name end),
+                body: (.body // ""),
+                draft: .isDraft,
+                prerelease: .isPrerelease
+              }' release.json > payload.json
+
+          if [ -n "$id" ]; then
+            curl -fsS -X PATCH -H "$auth" -H "$json" \
+              --data-binary @payload.json "${api}/releases/${id}" > /dev/null
+            echo "Updated the Codeberg release for ${TAG}"
+          else
+            id=$(curl -fsS -X POST -H "$auth" -H "$json" \
+              --data-binary @payload.json "${api}/releases" | jq -r .id)
+            echo "Created the Codeberg release for ${TAG}"
+          fi
+
+          # assets: download the GitHub ones before touching Codeberg, so a
+          # failed download leaves the mirror with its old zip instead of
+          # none at all
+          assets_count=$(jq '.assets | length' release.json)
+          if [ "$assets_count" -gt 0 ]; then
+            mkdir assets
+            gh release download "${TAG}" --repo "${GITHUB_REPOSITORY}" \
+              --dir assets
+          fi
+
+          # replace what Codeberg has with what GitHub has, so an edited
+          # release never keeps a stale zip next to the new one
+          curl -fsS -H "$auth" "${api}/releases/${id}/assets" \
+            | jq -r '.[]? | .id' \
+            | while read -r asset_id; do
+                curl -fsS -X DELETE -H "$auth" \
+                  "${api}/releases/${id}/assets/${asset_id}"
+              done
+
+          if [ "$assets_count" -gt 0 ]; then
+            for file in assets/*; do
+              name=$(basename "$file")
+              curl -fsS -X POST -H "$auth" \
+                -F "attachment=@${file};filename=${name}" \
+                "${api}/releases/${id}/assets" > /dev/null
+              echo "Uploaded ${name}"
+            done
+          else
+            # a file added to a release later fires no event
+            echo "::warning::The GitHub release ${TAG} has no files yet, so Codeberg gets the notes only. Run this workflow by hand with the tag once the zip is attached."
+          fi
