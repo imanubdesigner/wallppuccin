@@ -14,7 +14,7 @@ Wallpapers are stored as WebP instead of PNG. To the eye nothing changes, but th
 > tell me and I'll remove it, or tell me how you'd like to be credited and I'll add
 > it to this README: [open an issue](../../issues).
 
-> 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)** ↓
+> 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)**
 
 ## 🌌 Why Mocha?
 Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contrast yet soft aesthetic. This repository aims to be the go-to place for Mocha lovers.
