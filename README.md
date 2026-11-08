@@ -8,6 +8,7 @@
 [![Resolution](https://img.shields.io/badge/Resolution-4K%20UHD-%2389b4fa?style=for-the-badge)](#)
 [![Wallpapers](https://img.shields.io/badge/Wallpapers-213%2B-%23a6e3a1?style=for-the-badge)](#%EF%B8%8F-wallpapers-gallery-mocha)
 [![Format](https://img.shields.io/badge/Format-WebP%20%7C%20JPG-%23fab387?style=for-the-badge)](#)
+[![Theme Companion](https://img.shields.io/badge/Companion-Pastelppuccin%20Theme-%23e0bdd3?style=for-the-badge)](https://github.com/imanubdesigner/omarchy-pastelppuccin-theme)
 [![Stars](https://img.shields.io/github/stars/imanubdesigner/wallppuccin?style=for-the-badge&color=%23f9e2af)](https://github.com/imanubdesigner/wallppuccin/stargazers)
 
 </div>
@@ -35,7 +36,7 @@ Wallpapers are stored primarily as WebP instead of PNG. To the eye nothing chang
 > tell me and I'll remove it, or tell me how you'd like to be credited and I'll add
 > it to this README: [open an issue](../../issues).
 
-> 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin)**
+> 🍡 Want the matching Omarchy theme? Jump to **[Pastelppuccin](#-pastelppuccin--the-official-theme-companion)**
 
 ## 🌌 Why Mocha?
 
@@ -404,7 +405,7 @@ Mocha is the darkest flavor of Catppuccin Mocha, designed for a cozy, high-contr
   </tr>
 </table>
 
-## 🍡 Pastelppuccin
+## 🍡 Pastelppuccin | The Official Theme Companion
 
 **[Pastelppuccin](https://github.com/imanubdesigner/omarchy-pastelppuccin-theme)** is the matching Omarchy theme — Catppuccin Mocha, softened: ink-blue backgrounds, lavender text, and colors drawn straight from these wallpapers.
 
